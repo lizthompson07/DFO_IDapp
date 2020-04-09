@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586432270180.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3867972571",
+    "id" : "5767C0CD",
+    "lastKnownWriteTime" : 1565973948,
+    "last_content_update" : 1565973948,
+    "path" : "~/Projects/NOAA Surveys/IDapp/Latest/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
