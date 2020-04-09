@@ -7,4 +7,4 @@ You must also have all the headshots, the stylesheet.css, and the titlescript.js
 Happy whale ID'ing :whale:
 
 # Running the app remotely
-The app can be launched by running shiny::runGitHub("github-upload", username = "lizthompson07", ref = "master") in your RStudio environment.
+The app can be launched by running shiny::runGitHub("DFO_IDapp", username = "lizthompson07", ref = "master") in your RStudio environment.
