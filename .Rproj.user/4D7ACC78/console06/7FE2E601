@@ -1,485 +1,0 @@
-[0m[0KMicrosoft Windows [Version 10.0.16299.1686][0K[?25l
-(c) 2017 Microsoft Corporation. All rights reserved.[0K
-[0K
-C:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>[0K[?25hg[0Ki[0Kt[0K[69G[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git i[0K[?25hn[0Ki[0Kt[0K]0;  - git  init[?25l
-[0K[?25hInitialized empty Git repository in C:/Users/ThompsonE/Documents/Project[0Ks[?25l
-/NOAA Surveys/IDapp/Latest/.git/[0K
-[0K[?25h]0; [?25l
-C:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>[0K[?25h^V[0K[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>[0K[?25hg[0Ki[0Kt[0K[69G[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git r[0K[?25he[0Km[0Ko[0K[0Kt[?25l
-[0K[?25he[0K a[0Kd[0Kd[0K[7G[?25le add o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[14G[?25le add origin h[0K[?25ht[0Kt[0Kp[0Ks[0KL[0K.[0K[?25le add origin httpsL[0K[?25h[?25le add origin https[0K[?25h:[0K/[0K/[0Kg[0Ki[0Kt[0Kh[0Ku[0Kb[0K[?25le add origin https://githu[0K[?25hb[0K.[0Kc[0Ko[0Km[0K/[0Kl[0Ki[0Kz[0Kt[0Kh[0Ko[0Km[0Kp[0Ks[0Ko[0Kn[0K0[0K7[0K/[0Kg[0Ki[0Kt[0Kh[0Ku[0Kn[0Kb[0K[?25le add origin https://github.com/lizthompson07/githun[0K[?25h[?25le add origin https://github.com/lizthompson07/githu[0K[?25hb[0K-[0Ku[0Kp[0Kl[0Ko[0Ka[0Kd[0K.[0Kg[0Ki[0Kt[0K]0;  - git  remote add origin https://github.com/lizthompson07/github-upload.git[?25l
-[0K[?25h]0; [?25l
-C:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>[0K[?25hg[0Ki[0Kt[0K[69G[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git a[0K[?25hd[0Kd[0K[73G[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git add [0K.
-[0K[?25h]0;  - git  add .[?25l
-[0K[?25hwarning: LF will be replaced by CRLF in .Rhistory.[0K[?25l
-The file will have its original line endings in your working directory[0K
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/4D7ACC78/build_optio[0Kn[?25l
-s.[0K
-The file will have its original line endings in your working directory[0K
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/4D7ACC78/sources/pro[0Kp[?25l
-/D40967A4.[0K
-The file will have its original line endings in your working directory[0K
-warning: LF will be replaced by CRLF in .Rproj.user/4D7ACC78/sources/pro[0Kp
-/INDEX.[0K
-The file will have its original line endings in your working directory[0K
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/4D7ACC78/sources/s-2[0KB[?25l
-EE0006/5767C0CD.[0K
-The file will have its original line endings in your working directory[0K
-warning: LF will be replaced by CRLF in .Rproj.user/4D7ACC78/sources/s-2[0KB
-EE0006/5767C0CD-contents.[0K
-The file will have its original line endings in your working directory[0K
-[0K[?25hwarning: LF will be replaced by CRLF in www/.Rhistory.[0K[?25l
-The file will have its original line endings in your working directory[0K
-[0K[?25h]0; [?25l
-C:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>[0K[?25hg[0Ki[0Kt[0K[69G[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git c[0K[?25ho[0Km[0Km[0K[0Ki[?25l
-[0K[?25ht[0K -[0Km[0K[6G[?25lt -m :[0K[?25hi[0Kn[0Ki[0K[?25lt -m :in[0K[?25h[?25lt -m :i[0K[?25h[?25lt -m :[0K[?25h[?25lt -m[0K[6G[?25h[?25lt -m :[0K[?25hi[0Kn[0K[?25lt -m :i[0K[?25h[?25lt -m :[0K[?25h[?25lt -m[0K[6G[?25h[?25lt -m "[0K[?25hi[0Kn[0Ki[0Kt[0Ki[0Ka[0Kl[0Ki[0Kz[0Ke[0K[18G[?25lt -m "initialize r[0K[?25he[0Kp[0Ko[0Ks[0Ki[0Kt[0Ko[0Kr[0Ky[0K:[0K[?25lt -m "initialize repository[0K[?25h"[0K[?25l
-[0K[?25h]0;  - git  commit -m "initialize repository"[master (root-commit) cbc0f12] initialize repository[0K[?25l
- 169 files changed, 750 insertions(+)[0K
- create mode 100644 .RData[0K
- create mode 100644 .Rhistory[0K
- create mode 100644 .Rproj.user/4D7ACC78/build_options[0K
- create mode 100644 .Rproj.user/4D7ACC78/console06/7FE2E601[0K
- create mode 100644 .Rproj.user/4D7ACC78/console06/INDEX001[0K
- create mode 100644 .Rproj.user/4D7ACC78/sources/prop/D40967A4[0K
- create mode 100644 .Rproj.user/4D7ACC78/sources/prop/INDEX[0K
- create mode 100644 .Rproj.user/4D7ACC78/sources/s-2BEE0006/5767C0CD[0K
- create mode 100644 .Rproj.user/4D7ACC78/sources/s-2BEE0006/5767C0CD-con[0Kt
-ents[0K
- create mode 100644 .Rproj.user/4D7ACC78/sources/s-2BEE0006/lock_file[0K
- create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names[0K
- create mode 100644 IDapp.Rproj[0K
- create mode 100644 R.gitignore.txt[0K
- create mode 100644 app.R[0K
- create mode 100644 www/.RData[0K
- create mode 100644 www/.Rhistory[0K
- create mode 100644 www/1017_2019.JPG[0K
- create mode 100644 www/1036.jpg[0K
- create mode 100644 www/1042.JPG[0K
- create mode 100644 www/1112-Javelin_2019.JPG[0K
- create mode 100644 www/1142-Kleenex.JPG[0K
- create mode 100644 www/1149-Cream.JPG[0K
- create mode 100644 www/1209-EL.JPG[0K
- create mode 100644 www/1226-Snake eyes_2019.jpg[0K
- create mode 100644 www/1245-Slalom.JPG[0K
- create mode 100644 www/1249-Lacrosse.JPG[0K
- create mode 100644 www/1271-Dropcloth_2019.JPG[0K
- create mode 100644 www/1307_2019.JPG[0K
- create mode 100644 www/1317-Ergo.JPG[0K
- create mode 100644 www/1403-Meridian_2019.JPG[0K
- create mode 100644 www/1419_2019.JPG[0K
- create mode 100644 www/1423-Old Blunt Tips.JPG[0K
- create mode 100644 www/1427.jpg[0K
- create mode 100644 www/1429-Scarf_2019.JPG[0K
- create mode 100644 www/1506.JPG[0K
- create mode 100644 www/1507-Manta_2019.jpg[0K
- create mode 100644 www/1604.jpg[0K
- create mode 100644 www/1616.JPG[0K
- create mode 100644 www/1616_2019.JPG[0K
- create mode 100644 www/1628-Peregrine_2019.JPG[0K
- create mode 100644 www/1703-Wolf_2019.JPG[0K
- create mode 100644 www/1708.JPG[0K
- create mode 100644 www/1720_2019.JPG[0K
- create mode 100644 www/1801-Sparky.JPG[0K
- create mode 100644 www/1812.JPG[0K
- create mode 100644 www/1817-Silt.JPG[0K
- create mode 100644 www/1820-Cello_2019.JPG[0K
- create mode 100644 www/1934-Sagamore_2019.JPG[0K
- create mode 100644 www/1971-Nantucket.jpg[0K
- create mode 100644 www/2010_2019.JPG[0K
- create mode 100644 www/2040-Naevus.JPG[0K
- create mode 100644 www/2209.JPG[0K
- create mode 100644 www/2223-Calvin-2019.jpg[0K
- create mode 100644 www/2271-Prescott_2019.JPG[0K
- create mode 100644 www/2303-2019.jpg[0K
- create mode 100644 www/2340_2019.JPG[0K
- create mode 100644 www/2427-Cicatrix.jpg[0K
- create mode 100644 www/2503-Boomerang.JPG[0K
- create mode 100644 www/2510_2019.JPG[0K
- create mode 100644 www/2642-Echo-2019.jpg[0K
- create mode 100644 www/2681-Hyphen_2019.JPG[0K
- create mode 100644 www/2705-Silver.JPG[0K
- create mode 100644 www/2743_2019.JPG[0K
- create mode 100644 www/2750 Haley_2019.JPG[0K
- create mode 100644 www/2753-Arpeggio_2019.JPG[0K
- create mode 100644 www/2760_2019.JPG[0K
- create mode 100644 www/2791-2019.jpg[0K
- create mode 100644 www/2904_2019.JPG[0K
- create mode 100644 www/2910_2019.JPG[0K
- create mode 100644 www/2920.JPG[0K
- create mode 100644 www/2930-Specs.JPG[0K
- create mode 100644 www/3101- Harmonia_2019.JPG[0K
- create mode 100644 www/3110_2019.JPG[0K
- create mode 100644 www/3115-Harmony-2019.jpg[0K
- create mode 100644 www/3125.JPG[0K
- create mode 100644 www/3140-Lou.jpg[0K
- create mode 100644 www/3157.JPG[0K
- create mode 100644 www/3191_2019.JPG[0K
- create mode 100644 www/3193-Toothbrush_2019.JPG[0K
- create mode 100644 www/3194-2019.jpg[0K
- create mode 100644 www/3229_left.jpg[0K
- create mode 100644 www/3229_right.jpg[0K
- create mode 100644 www/3230-Infinity_2019.JPG[0K
- create mode 100644 www/3232-Lobster-2019.jpg[0K
- create mode 100644 www/3245_2019.JPG[0K
- create mode 100644 www/3296.jpg[0K
- create mode 100644 www/3301_Neptune_2019.JPG[0K
- create mode 100644 www/3310.JPG[0K
- create mode 100644 www/3312.JPG[0K
- create mode 100644 www/3317_2019.JPG[0K
- create mode 100644 www/3333_2019.JPG[0K
- create mode 100644 www/3351_2019.JPG[0K
- create mode 100644 www/3380-Lemur-2019.jpg[0K
- create mode 100644 www/3390_2019.JPG[0K
- create mode 100644 www/3392_.JPG[0K
- create mode 100644 www/3420-Platypus.JPG[0K
- create mode 100644 www/3421_2019.JPG[0K
- create mode 100644 www/3440-Cypress.jpg[0K
- create mode 100644 www/3442-Armada-2019.jpg[0K
- create mode 100644 www/3510_2019.JPG[0K
- create mode 100644 www/3520-Millipede_2019.JPG[0K
- create mode 100644 www/3530-Ruffian_2019.JPG[0K
- create mode 100644 www/3546-Halo.JPG[0K
- create mode 100644 www/3550.JPG[0K
- create mode 100644 www/3560_2019.JPG[0K
- create mode 100644 www/3579_2019.JPG[0K
- create mode 100644 www/3617-Salem_2019.JPG[0K
- create mode 100644 www/3623-Bongo_2019.JPG[0K
- create mode 100644 www/3646.jpg[0K
- create mode 100644 www/3651_2019.JPG[0K
- create mode 100644 www/3660-Sirius_2019.JPG[0K
- create mode 100644 www/3680-Sea Dragon.JPG[0K
- create mode 100644 www/3720_2019.JPG[0K
- create mode 100644 www/3812-2019.jpg[0K
- create mode 100644 www/3823_2019.JPG[0K
- create mode 100644 www/3843.JPG[0K
- create mode 100644 www/3860-Boccee_2019.JPG[0K
- create mode 100644 www/3890.JPG[0K
- create mode 100644 www/3892_2019.jpg[0K
- create mode 100644 www/3904-Champagne.JPG[0K
- create mode 100644 www/3920-2019.jpg[0K
- create mode 100644 www/3940.JPG[0K
- create mode 100644 www/3942_2019.JPG[0K
- create mode 100644 www/3946.JPG[0K
- create mode 100644 www/3960_2019.JPG[0K
- create mode 100644 www/3981.JPG[0K
- create mode 100644 www/3989_2019.JPG[0K
- create mode 100644 www/3992.JPG[0K
- create mode 100644 www/4040-Chiminea_2019.JPG[0K
- create mode 100644 www/4042_2019.JPG[0K
- create mode 100644 www/4057-FDR.jpg[0K
- create mode 100644 www/4092-Flare_2019.JPG[0K
- create mode 100644 www/4094-Mayport.jpg[0K
- create mode 100644 www/4123.JPG[0K
- create mode 100644 www/4129_2019.JPG[0K
- create mode 100644 www/4140-Casper_2019.JPG[0K
- create mode 100644 www/4180_2019.JPG[0K
- create mode 100644 www/4190_2019.JPG[0K
- create mode 100644 www/4310-2019.jpg[0K
- create mode 100644 www/4340_2019.JPG[0K
- create mode 100644 www/4423_2019.JPG[0K
- create mode 100644 www/4440_2019.JPG[0K
- create mode 100644 www/4445-Bishop.jpg[0K
- create mode 100644 www/4446_2019.JPG[0K
- create mode 100644 www/4457-2019.jpg[0K
- create mode 100644 www/4501_2019.JPG[0K
- create mode 100644 www/4510.JPG[0K
- create mode 100644 www/4523_2019.JPG[0K
- create mode 100644 www/4530.jpg[0K
- create mode 100644 www/4539.JPG[0K
- create mode 100644 www/4545.JPG[0K
- create mode 100644 www/4546.jpg[0K
- create mode 100644 www/4601_2019.JPG[0K
- create mode 100644 www/4615.JPG[0K
- create mode 100644 www/4617_2019.JPG[0K
- create mode 100644 www/4620.jpg[0K
- create mode 100644 www/4633_2019.JPG[0K
- create mode 100644 www/_2016CalfOf3450 aka UK9.JPG[0K
- create mode 100644 www/_2019CalfOf2791_2019(1).JPG[0K
- create mode 100644 www/_2019CalfOf2791_2019.jpg[0K
- create mode 100644 www/_2019CalfOf3317_2019.JPG[0K
- create mode 100644 www/_2019CalfOf4180_2019.JPG[0K
- create mode 100644 www/_G046 possibly 2013CalfOf2042_2019.JPG[0K
- create mode 100644 www/_G055.JPG[0K
- create mode 100644 www/_G055_2019.JPG[0K
- create mode 100644 www/_G056_2019.JPG[0K
- create mode 100644 www/codingAug7.csv[0K
- create mode 100644 www/stylesheet.css[0K
- create mode 100644 www/titlescript.js[0K
-[0K[?25h]0; [?25l
-C:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>[0K[?25hg[0Ku[0K[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>g[0K[?25hi[0Kt[0K[69G[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git p[0K[?25hu[0Ks[0Kh[0K[?25l
-[0K[?25h-[0Ku[0K[4G[?25l-u o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[11G[?25l-u origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K]0;  - git  push -u origin master[?25l
-[0K[?25hEnumerating objects: 178, done.[0K[?25l
-Counting objects:  15% (27/178)[0K[1G[?25h[?25lCounting objects:  45% (81/178)[0K[1G[?25h[?25lCounting objects:  79% (141/178)[0K[1G[?25h[?25lCounting objects:  92% (164/178)[0K[1G[?25hCounting objects: 100% (178/178), done.[0K[?25l
-Delta compression using up to 4 threads[0K
-Compressing objects:   8% (14/174)[0K[1G[?25h[?25lCompressing objects:  23% (41/174)[0K[1G[?25h[?25lCompressing objects:  28% (49/174)[0K[1G[?25h[?25lCompressing objects:  32% (56/174)[0K[2G[?25h[?25lCompressing objects:  38% (67/174)[0K[2G[?25h[?25lCompressing objects:  42% (74/174)[0K[1G[?25h[?25lCompressing objects:  46% (81/174)[0K[1G[?25h[?25lCompressing objects:  52% (91/174)[0K[1G[?25h[?25lCompressing objects:  59% (103/174)[0K[1G[?25h[?25lCompressing objects:  71% (124/174)[0K[1G[?25h[?25lCompressing objects:  75% (131/174)[0K[1G[?25h[?25lCompressing objects:  77% (134/174)[0K[1G[?25h[?25lCompressing objects:  81% (141/174)[0K[1G[?25h[?25lCompressing objects:  83% (145/174)[0K[1G[?25h[?25lCompressing objects:  92% (161/174)[0K[1G[?25h[?25lCompressing objects:  93% (162/174)[0K[1G[?25h[?25lCompressing objects:  94% (164/174)[0K[1G[?25h[?25lCompressing objects:  96% (168/174)[0K[1G[?25h[?25lCompressing objects:  98% (171/174)[0K[1G[?25h[?25lCompressing objects: 100% (174/174)[0K[1G[?25hCompressing objects: 100% (174/174), done.[0K[?25l
-Writing objects:   3% (6/178)[0K[1G[?25h[?25lWriting objects:  16% (29/178)[0K[1G[?25h[?25lWriting objects:  17% (31/178)[0K[1G[?25h[?25lWriting objects:  18% (33/178), 1.48 MiB | 1.54 MiB/s[0K[1G[?25h[?25lWriting objects:  19% (34/178), 1.48 MiB | 1.54 MiB/s[0K[1G[?25h[?25lWriting objects:  20% (36/178), 1.48 MiB | 1.54 MiB/s[0K[1G[?25h[?25lWriting objects:  21% (38/178), 2.66 MiB | 1.79 MiB/s[0K[1G[?25h[?25lWriting objects:  22% (40/178), 2.66 MiB | 1.79 MiB/s[0K[1G[?25h[?25lWriting objects:  23% (41/178), 2.66 MiB | 1.79 MiB/s[0K[1G[?25h[?25lWriting objects:  24% (43/178), 2.66 MiB | 1.79 MiB/s[0K[1G[?25h[?25lWriting objects:  25% (45/178), 2.66 MiB | 1.79 MiB/s[0K[1G[?25h[?25lWriting objects:  26% (47/178), 4.63 MiB | 2.33 MiB/s[0K[1G[?25h[?25lWriting objects:  27% (49/178), 4.63 MiB | 2.33 MiB/s[0K[1G[?25h[?25lWriting objects:  28% (50/178), 4.63 MiB | 2.33 MiB/s[0K[1G[?25h[?25lWriting objects:  29% (52/178), 4.63 MiB | 2.33 MiB/s[0K[1G[?25h[?25lWriting objects:  30% (54/178), 4.63 MiB | 2.33 MiB/s[0K[1G[?25h[?25lWriting objects:  31% (56/178), 6.76 MiB | 2.70 MiB/s[0K[1G[?25h[?25lWriting objects:  32% (57/178), 6.76 MiB | 2.70 MiB/s[0K[1G[?25h[?25lWriting objects:  33% (59/178), 6.76 MiB | 2.70 MiB/s[0K[1G[?25h[?25lWriting objects:  34% (61/178), 6.76 MiB | 2.70 MiB/s[0K[1G[?25h[?25lWriting objects:  35% (63/178), 6.76 MiB | 2.70 MiB/s[0K[1G[?25h[?25lWriting objects:  37% (66/178), 6.76 MiB | 2.70 MiB/s[0K[1G[?25h[?25lWriting objects:  37% (67/178), 9.29 MiB | 3.09 MiB/s[0K[1G[?25h[?25lWriting objects:  38% (68/178), 9.29 MiB | 3.09 MiB/s[0K[1G[?25h[?25lWriting objects:  39% (70/178), 9.29 MiB | 3.09 MiB/s[0K[1G[?25h[?25lWriting objects:  40% (72/178), 9.29 MiB | 3.09 MiB/s[0K[1G[?25h[?25lWriting objects:  41% (73/178), 9.29 MiB | 3.09 MiB/s[0K[1G[?25h[?25lWriting objects:  42% (75/178), 9.29 MiB | 3.09 MiB/s[0K[1G[?25h[?25lWriting objects:  43% (77/178), 9.29 MiB | 3.09 MiB/s[0K[1G[?25h[?25lWriting objects:  44% (79/178), 9.29 MiB | 3.09 MiB/s[0K[1G[?25h[?25lWriting objects:  45% (81/178), 12.08 MiB | 3.44 MiB/s[0K[1G[?25h[?25lWriting objects:  46% (82/178), 12.08 MiB | 3.44 MiB/s[0K[1G[?25h[?25lWriting objects:  47% (84/178), 12.08 MiB | 3.44 MiB/s[0K[1G[?25h[?25lWriting objects:  48% (86/178), 12.08 MiB | 3.44 MiB/s[0K[1G[?25h[?25lWriting objects:  49% (88/178), 12.08 MiB | 3.44 MiB/s[0K[1G[?25h[?25lWriting objects:  51% (91/178), 12.08 MiB | 3.44 MiB/s[0K[1G[?25h[?25lWriting objects:  51% (91/178), 14.95 MiB | 3.73 MiB/s[0K[1G[?25h[?25lWriting objects:  52% (93/178), 14.95 MiB | 3.73 MiB/s[0K[1G[?25h[?25lWriting objects:  53% (95/178), 14.95 MiB | 3.73 MiB/s[0K[1G[?25h[?25lWriting objects:  54% (97/178), 14.95 MiB | 3.73 MiB/s[0K[1G[?25h[?25lWriting objects:  55% (98/178), 14.95 MiB | 3.73 MiB/s[0K[1G[?25h[?25lWriting objects:  56% (100/178), 14.95 MiB | 3.73 MiB/s[0K[1G[?25h[?25lWriting objects:  57% (102/178), 14.95 MiB | 3.73 MiB/s[0K[1G[?25h[?25lWriting objects:  58% (104/178), 14.95 MiB | 3.73 MiB/s[0K[1G[?25h[?25lWriting objects:  60% (107/178), 14.95 MiB | 3.73 MiB/s[0K[1G[?25h[?25lWriting objects:  61% (109/178), 14.95 MiB | 3.73 MiB/s[0K[1G[?25h[?25lWriting objects:  62% (111/178), 18.05 MiB | 4.01 MiB/s[0K[1G[?25h[?25lWriting objects:  63% (113/178), 18.05 MiB | 4.01 MiB/s[0K[1G[?25h[?25lWriting objects:  64% (114/178), 18.05 MiB | 4.01 MiB/s[0K[1G[?25h[?25lWriting objects:  65% (116/178), 18.05 MiB | 4.01 MiB/s[0K[1G[?25h[?25lWriting objects:  66% (118/178), 18.05 MiB | 4.01 MiB/s[0K[1G[?25h[?25lWriting objects:  67% (120/178), 18.05 MiB | 4.01 MiB/s[0K[1G[?25h[?25lWriting objects:  68% (122/178), 18.05 MiB | 4.01 MiB/s[0K[1G[?25h[?25lWriting objects:  69% (123/178), 18.05 MiB | 4.01 MiB/s[0K[1G[?25h[?25lWriting objects:  70% (125/178), 21.12 MiB | 4.22 MiB/s[0K[1G[?25h[?25lWriting objects:  71% (127/178), 21.12 MiB | 4.22 MiB/s[0K[1G[?25h[?25lWriting objects:  73% (130/178), 21.12 MiB | 4.22 MiB/s[0K[1G[?25h[?25lWriting objects:  74% (132/178), 21.12 MiB | 4.22 MiB/s[0K[1G[?25h[?25lWriting objects:  75% (134/178), 21.12 MiB | 4.22 MiB/s[0K[1G[?25h[?25lWriting objects:  76% (136/178), 21.12 MiB | 4.22 MiB/s[0K[1G[?25h[?25lWriting objects:  77% (138/178), 21.12 MiB | 4.22 MiB/s[0K[1G[?25h[?25lWriting objects:  78% (139/178), 21.12 MiB | 4.22 MiB/s[0K[1G[?25h[?25lWriting objects:  79% (141/178), 21.12 MiB | 4.22 MiB/s[0K[1G[?25h[?25lWriting objects:  80% (143/178), 24.45 MiB | 5.04 MiB/s[0K[1G[?25h[?25lWriting objects:  81% (145/178), 24.45 MiB | 5.04 MiB/s[0K[1G[?25h[?25lWriting objects:  82% (146/178), 24.45 MiB | 5.04 MiB/s[0K[1G[?25h[?25lWriting objects:  83% (148/178), 24.45 MiB | 5.04 MiB/s[0K[1G[?25h[?25lWriting objects:  84% (150/178), 24.45 MiB | 5.04 MiB/s[0K[1G[?25h[?25lWriting objects:  85% (152/178), 24.45 MiB | 5.04 MiB/s[0K[1G[?25h[?25lWriting objects:  87% (155/178), 24.45 MiB | 5.04 MiB/s[0K[1G[?25h[?25lWriting objects:  88% (157/178), 24.45 MiB | 5.04 MiB/s[0K[1G[?25h[?25lWriting objects:  89% (159/178), 24.45 MiB | 5.04 MiB/s[0K[1G[?25h[?25lWriting objects:  90% (161/178), 24.45 MiB | 5.04 MiB/s[0K[1G[?25h[?25lWriting objects:  92% (164/178), 24.45 MiB | 5.04 MiB/s[0K[1G[?25h[?25lWriting objects:  94% (168/178), 24.45 MiB | 5.04 MiB/s[0K[1G[?25h[?25lWriting objects:  96% (171/178), 28.20 MiB | 5.64 MiB/s[0K[1G[?25h[?25lWriting objects:  97% (173/178), 28.20 MiB | 5.64 MiB/s[0K[1G[?25hWriting objects: 100% (178/178), 28.91 MiB | 4.72 MiB/s, done.[0K[?25l
-Total 178 (delta 0), reused 0 (delta 0)[0K
-[0K[?25hTo https://github.com/lizthompson07/github-upload.git[0K[?25l
- * [new branch]      master -> master[0K
-[0K[?25h]0; Branch 'master' set up to track remote branch 'master' from 'origin'.[0K[?25l
-[0K
-C:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>[0K[?25hg[0Ki[0Kt[0K[69G[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git r[0K[?25hm[0K[72G[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git rm -[0K[?25h[0Kr[?25l
-[0K[?25h[2G[?25l -[0K[?25h-[0Kc[0Ka[0Kc[0Kh[0Ke[0Kd[0K[11G[?25l --cached .[0K[?25h[?25l --cached[0K[11G[?25h[10G[?25l --cache[0K[?25h[?25l --cach[0K[?25h[?25l --cac[0K[?25h[?25l --ca[0K[?25h[?25l --c[0K[?25h[?25l --[0K[?25h[?25l -[0K[?25h[?25l[0K[2G[?25h[1G[?25l[1AC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git rm -[0K
-[0K[1A[73G[?25h[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git rm[0K
-[0K[1A[72G[?25h[71G[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git r[0K
-[0K[1A[70G[?25h[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git[0K
-[0K[1A[69G[?25h[68G[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>gi[0K
-[0K[1A[67G[?25h[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>[0K
-[0K[1A[65G[?25h[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>g[0K
-[0K[1A[66G[?25h[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>gi[0K
-[0K[1A[67G[?25h[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git[0K
-[0K[1A[68G[?25h[69G[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git c[0K
-[0K[1A[70G[?25h[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git co[0K
-[0K[1A[71G[?25h[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git com[0K
-[0K[1A[72G[?25h[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git comm[0K
-[0K[1A[73G[?25h[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git comm[0Ki
-[0K[?25ht[0K[3G[?25lt -[0K[?25hm[0K[6G[?25lt -m "[0K[?25ha[0Kd[0Kd[0K[11G[?25lt -m "add g[0K[?25hi[0Kt[0Ki[0Kg[0Kn[0Ko[0Kr[0Ke[0K[21G[?25lt -m "add gitignore f[0K[?25hi[0Kl[0Ke[0K"[0K[?25l
-[0K[?25h]0;  - git  commit -m "add gitignore file"]0; On branch master[0K[?25l
-Your branch is up to date with 'origin/master'.[0K
-[0K
-Changes not staged for commit:[0K
-        [0;31mmodified:   .Rproj.user/4D7ACC78/console06/7FE2E601[0m[0K
-        [0;31mdeleted:    R.gitignore.txt[0m[0K
-[0K
-Untracked files:[0K
-        [0;31m.gitignore.txt[0m[0K
-[0K
-no changes added to commit[0K
-[0K
-C:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>[0K[?25hg[0Ki[0Kt[0K[69G[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git -[0K[?25h[71G[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git - -[0K[?25hm[0K[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git - -[0K[?25h[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git -[0K[71G[?25h[70G[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git -a[0K[?25h[72G[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git -a -[0K[?25h[0Km[?25l
-[0K[?25h[?25l[1AC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git -a -[0K
-[0K[1A[73G[?25h[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git -a[0K
-[0K[1A[72G[?25h[71G[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git -[0K
-[0K[1A[70G[?25h[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git[0K
-[0K[1A[69G[?25h[68G[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>gitc[0K
-[0K[1A[69G[?25h[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git[0K
-[0K[1A[68G[?25h[69G[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git c[0K
-[0K[1A[70G[?25h[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git co[0K
-[0K[1A[71G[?25h[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git com[0K
-[0K[1A[72G[?25h[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git comm[0K
-[0K[1A[73G[?25h[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git comm[0Ki
-[0K[?25ht[0K[3G[?25lt -[0K[?25hc[0K[?25lt -[0K[?25ha[0K[6G[?25lt -a -[0K[?25hm[0K[9G[?25lt -a -m "[0K[?25ha[0Kd[0Kd[0K[14G[?25lt -a -m "add g[0K[?25hi[0Kt[0Ki[0Kg[0Kn[0Ko[0Kr[0Ke[0K"[0K[?25l
-[0K[?25h]0;  - git  commit -a -m "add gitignore"[master 7b79832] add gitignore[0K[?25l
- 2 files changed, 249 insertions(+), 43 deletions(-)[0K
- delete mode 100644 R.gitignore.txt[0K
-[0K[?25h]0; [?25l
-C:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>[0K[?25hg[0Ki[0Kt[0K[69G[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git s[0K[?25ht[0Ka[0Kt[0K[0Ku[?25l
-[0K[?25hs[0K]0;  - git  status[?25l
-[0K[?25hOn branch master[0K[?25l
-Your branch is ahead of 'origin/master' by 1 commit.[0K
-  (use "git push" to publish your local commits)[0K
-[0K
-Changes not staged for commit:[0K
-  (use "git add <file>..." to update what will be committed)[0K
-  (use "git restore <file>..." to discard changes in working directory)[0K
-        [0;31mmodified:   .Rproj.user/4D7ACC78/console06/7FE2E601[0m[0K
-[0K
-Untracked files:[0K
-  (use "git add <file>..." to include in what will be committed)[0K
-        [0;31m.gitignore.txt[0m[0K
-[0K
-no changes added to commit (use "git add" and/or "git commit -a")[0K
-[0K[?25h]0; [?25l
-C:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>[0K[?25hg[0Ki[0Kt[0K[69G[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git a[0K[?25hd[0Kd[0K[73G[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git add [0K.
-[0K[?25hg[0Ki[0Kt[0Ki[0Kg[0Kn[0Ko[0Kr[0Ke[0K.[0Kt[0Kx[0Kt[0K[?25l
-[0K[?25h]0;  - git  add .gitignore.txt]0; [?25l
-C:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>[0K[?25hg[0Ki[0Kt[0K[69G[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git s[0K[?25ht[0Ka[0Kt[0K[0Ku[?25l
-[0K[?25hs[0K]0;  - git  status[?25l
-[0K[?25hOn branch master[0K[?25l
-Your branch is ahead of 'origin/master' by 1 commit.[0K
-  (use "git push" to publish your local commits)[0K
-[0K
-Changes to be committed:[0K
-  (use "git restore --staged <file>..." to unstage)[0K
-        [0;32mnew file:   .gitignore.txt[0m[0K
-[0K
-Changes not staged for commit:[0K
-  (use "git add <file>..." to update what will be committed)[0K
-  (use "git restore <file>..." to discard changes in working directory)[0K
-        [0;31mmodified:   .Rproj.user/4D7ACC78/console06/7FE2E601[0m[0K
-[0K
-[0K[?25h]0; [?25l
-C:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>[0K[?25hg[0Ki[0Kt[0K[69G[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git c[0K[?25ho[0Km[0Km[0K[0Ki[?25l
-[0K[?25ht[0K[3G[?25lt -[0K[?25h[5G[?25lt - m[0K[?25h[?25lt -[0K[5G[?25h[4G[?25lt -m[0K[?25h[6G[?25lt -m "[0K[?25ha[0Kd[0Kd[0Ke[0Kd[0K[?25lt -m "adde[0K[?25h[?25lt -m "add[0K[?25h[11G[?25lt -m "add g[0K[?25hi[0Kt[0Ki[0Kg[0Kn[0Ko[0Kr[0Ke[0K"[0K]0;  - git  commit -m "add gitignore"[?25l
-[0K[?25h[master 9713523] add gitignore[0K[?25l
- 1 file changed, 42 insertions(+)[0K
- create mode 100644 .gitignore.txt[0K
-[0K[?25h]0; [?25l
-C:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>[0K[?25hg[0Ki[0Kt[0K[69G[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git r[0K[?25hm[0K-[0Kr[0K[?25l
-[0K[?25h-[0K-[0Kc[0Ka[0Kc[0Kh[0Ke[0Kd[0K[10G[?25l--cached ,[0K[?25h[?25l--cached[0K[10G[?25h[?25l--cached .[0K[?25h]0;  - git  rm-r --cached .[?25l
-[0K[?25h]0; git: 'rm-r' is not a git command. See 'git --help'.[0K[?25l
-[0K
-C:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>[0K[?25hg[0Ki[0Kt[0K[69G[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git r[0K[?25hm[0K[72G[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git rm -[0K[?25h[0Kr[?25l
-[0K[?25h[2G[?25l -[0K[?25h-[0Kc[0Ka[0Kc[0Kh[0Ke[0Kd[0K[11G[?25l --cached .[0K[?25h]0;  - git  rm -r --cached .[?25l
-[0K[?25hrm '.RData'[0K[?25l
-rm '.Rhistory'[0K
-rm '.Rproj.user/4D7ACC78/build_options'[0K
-rm '.Rproj.user/4D7ACC78/console06/7FE2E601'[0K
-rm '.Rproj.user/4D7ACC78/console06/INDEX001'[0K
-rm '.Rproj.user/4D7ACC78/sources/prop/D40967A4'[0K
-rm '.Rproj.user/4D7ACC78/sources/prop/INDEX'[0K
-rm '.Rproj.user/4D7ACC78/sources/s-2BEE0006/5767C0CD'[0K
-rm '.Rproj.user/4D7ACC78/sources/s-2BEE0006/5767C0CD-contents'[0K
-rm '.Rproj.user/4D7ACC78/sources/s-2BEE0006/lock_file'[0K
-rm '.Rproj.user/shared/notebooks/patch-chunk-names'[0K
-rm '.gitignore.txt'[0K
-rm 'IDapp.Rproj'[0K
-rm 'app.R'[0K
-rm 'www/.RData'[0K
-rm 'www/.Rhistory'[0K
-rm 'www/1017_2019.JPG'[0K
-rm 'www/1036.jpg'[0K
-rm 'www/1042.JPG'[0K
-rm 'www/1112-Javelin_2019.JPG'[0K
-rm 'www/1142-Kleenex.JPG'[0K
-rm 'www/1149-Cream.JPG'[0K
-rm 'www/1209-EL.JPG'[0K
-rm 'www/1226-Snake eyes_2019.jpg'[0K
-rm 'www/1245-Slalom.JPG'[0K
-rm 'www/1249-Lacrosse.JPG'[0K
-rm 'www/1271-Dropcloth_2019.JPG'[0K
-rm 'www/1307_2019.JPG'[0K
-rm 'www/1317-Ergo.JPG'[0K
-rm 'www/1403-Meridian_2019.JPG'[0K
-rm 'www/1419_2019.JPG'[0K
-rm 'www/1423-Old Blunt Tips.JPG'[0K
-rm 'www/1427.jpg'[0K
-rm 'www/1429-Scarf_2019.JPG'[0K
-rm 'www/1506.JPG'[0K
-rm 'www/1507-Manta_2019.jpg'[0K
-rm 'www/1604.jpg'[0K
-rm 'www/1616.JPG'[0K
-rm 'www/1616_2019.JPG'[0K
-rm 'www/1628-Peregrine_2019.JPG'[0K
-rm 'www/1703-Wolf_2019.JPG'[0K
-rm 'www/1708.JPG'[0K
-rm 'www/1720_2019.JPG'[0K
-rm 'www/1801-Sparky.JPG'[0K
-rm 'www/1812.JPG'[0K
-rm 'www/1817-Silt.JPG'[0K
-rm 'www/1820-Cello_2019.JPG'[0K
-rm 'www/1934-Sagamore_2019.JPG'[0K
-rm 'www/1971-Nantucket.jpg'[0K
-rm 'www/2010_2019.JPG'[0K
-rm 'www/2040-Naevus.JPG'[0K
-rm 'www/2209.JPG'[0K
-rm 'www/2223-Calvin-2019.jpg'[0K
-rm 'www/2271-Prescott_2019.JPG'[0K
-rm 'www/2303-2019.jpg'[0K
-rm 'www/2340_2019.JPG'[0K
-rm 'www/2427-Cicatrix.jpg'[0K
-rm 'www/2503-Boomerang.JPG'[0K
-rm 'www/2510_2019.JPG'[0K
-rm 'www/2642-Echo-2019.jpg'[0K
-rm 'www/2681-Hyphen_2019.JPG'[0K
-rm 'www/2705-Silver.JPG'[0K
-rm 'www/2743_2019.JPG'[0K
-rm 'www/2750 Haley_2019.JPG'[0K
-rm 'www/2753-Arpeggio_2019.JPG'[0K
-rm 'www/2760_2019.JPG'[0K
-rm 'www/2791-2019.jpg'[0K
-rm 'www/2904_2019.JPG'[0K
-rm 'www/2910_2019.JPG'[0K
-rm 'www/2920.JPG'[0K
-rm 'www/2930-Specs.JPG'[0K
-rm 'www/3101- Harmonia_2019.JPG'[0K
-rm 'www/3110_2019.JPG'[0K
-rm 'www/3115-Harmony-2019.jpg'[0K
-rm 'www/3125.JPG'[0K
-rm 'www/3140-Lou.jpg'[0K
-rm 'www/3157.JPG'[0K
-rm 'www/3191_2019.JPG'[0K
-rm 'www/3193-Toothbrush_2019.JPG'[0K
-rm 'www/3194-2019.jpg'[0K
-rm 'www/3229_left.jpg'[0K
-rm 'www/3229_right.jpg'[0K
-rm 'www/3230-Infinity_2019.JPG'[0K
-rm 'www/3232-Lobster-2019.jpg'[0K
-rm 'www/3245_2019.JPG'[0K
-rm 'www/3296.jpg'[0K
-rm 'www/3301_Neptune_2019.JPG'[0K
-rm 'www/3310.JPG'[0K
-rm 'www/3312.JPG'[0K
-rm 'www/3317_2019.JPG'[0K
-rm 'www/3333_2019.JPG'[0K
-rm 'www/3351_2019.JPG'[0K
-rm 'www/3380-Lemur-2019.jpg'[0K
-rm 'www/3390_2019.JPG'[0K
-rm 'www/3392_.JPG'[0K
-rm 'www/3420-Platypus.JPG'[0K
-rm 'www/3421_2019.JPG'[0K
-rm 'www/3440-Cypress.jpg'[0K
-rm 'www/3442-Armada-2019.jpg'[0K
-rm 'www/3510_2019.JPG'[0K
-rm 'www/3520-Millipede_2019.JPG'[0K
-rm 'www/3530-Ruffian_2019.JPG'[0K
-rm 'www/3546-Halo.JPG'[0K
-rm 'www/3550.JPG'[0K
-rm 'www/3560_2019.JPG'[0K
-rm 'www/3579_2019.JPG'[0K
-rm 'www/3617-Salem_2019.JPG'[0K
-rm 'www/3623-Bongo_2019.JPG'[0K
-rm 'www/3646.jpg'[0K
-rm 'www/3651_2019.JPG'[0K
-rm 'www/3660-Sirius_2019.JPG'[0K
-rm 'www/3680-Sea Dragon.JPG'[0K
-rm 'www/3720_2019.JPG'[0K
-rm 'www/3812-2019.jpg'[0K
-rm 'www/3823_2019.JPG'[0K
-rm 'www/3843.JPG'[0K
-rm 'www/3860-Boccee_2019.JPG'[0K
-rm 'www/3890.JPG'[0K
-rm 'www/3892_2019.jpg'[0K
-rm 'www/3904-Champagne.JPG'[0K
-rm 'www/3920-2019.jpg'[0K
-rm 'www/3940.JPG'[0K
-rm 'www/3942_2019.JPG'[0K
-rm 'www/3946.JPG'[0K
-rm 'www/3960_2019.JPG'[0K
-rm 'www/3981.JPG'[0K
-rm 'www/3989_2019.JPG'[0K
-rm 'www/3992.JPG'[0K
-rm 'www/4040-Chiminea_2019.JPG'[0K
-rm 'www/4042_2019.JPG'[0K
-rm 'www/4057-FDR.jpg'[0K
-rm 'www/4092-Flare_2019.JPG'[0K
-rm 'www/4094-Mayport.jpg'[0K
-rm 'www/4123.JPG'[0K
-rm 'www/4129_2019.JPG'[0K
-rm 'www/4140-Casper_2019.JPG'[0K
-rm 'www/4180_2019.JPG'[0K
-rm 'www/4190_2019.JPG'[0K
-rm 'www/4310-2019.jpg'[0K
-rm 'www/4340_2019.JPG'[0K
-rm 'www/4423_2019.JPG'[0K
-rm 'www/4440_2019.JPG'[0K
-rm 'www/4445-Bishop.jpg'[0K
-rm 'www/4446_2019.JPG'[0K
-rm 'www/4457-2019.jpg'[0K
-rm 'www/4501_2019.JPG'[0K
-rm 'www/4510.JPG'[0K
-rm 'www/4523_2019.JPG'[0K
-rm 'www/4530.jpg'[0K
-rm 'www/4539.JPG'[0K
-rm 'www/4545.JPG'[0K
-rm 'www/4546.jpg'[0K
-rm 'www/4601_2019.JPG'[0K
-rm 'www/4615.JPG'[0K
-rm 'www/4617_2019.JPG'[0K
-rm 'www/4620.jpg'[0K
-rm 'www/4633_2019.JPG'[0K
-rm 'www/_2016CalfOf3450 aka UK9.JPG'[0K
-rm 'www/_2019CalfOf2791_2019(1).JPG'[0K
-rm 'www/_2019CalfOf2791_2019.jpg'[0K
-rm 'www/_2019CalfOf3317_2019.JPG'[0K
-rm 'www/_2019CalfOf4180_2019.JPG'[0K
-rm 'www/_G046 possibly 2013CalfOf2042_2019.JPG'[0K
-rm 'www/_G055.JPG'[0K
-rm 'www/_G055_2019.JPG'[0K
-rm 'www/_G056_2019.JPG'[0K
-rm 'www/codingAug7.csv'[0K
-rm 'www/stylesheet.css'[0K
-rm 'www/titlescript.js'[0K
-[0K[?25h]0; [?25l
-C:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>[0K[?25hg[0Ki[0Kt[0K[69G[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git a[0K[?25hd[0Kd[0K[73G[?25lC:\Users\ThompsonE\Documents\Projects\NOAA Surveys\IDapp\Latest>git add [0K.
-[0K[?25h]0;  - git  add .[?25l
-[0K[?25h
