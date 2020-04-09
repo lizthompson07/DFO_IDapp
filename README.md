@@ -1,4 +1,4 @@
-For helping to identify whales quickly inthe Gulf Region
+For helping to identify whales quickly in the Gulf Region
 
 Dependencies include library(shiny) and library(DT)
 
