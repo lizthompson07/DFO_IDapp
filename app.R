@@ -1,9 +1,9 @@
 library(shiny)
 library(DT)
 
-getwd()
-setwd("C:/Users/ThompsonE/Documents/Projects/NOAA Surveys/IDapp/Latest/www")
-dat <- read.csv(file="codingAug7.csv")
+# getwd()
+# setwd("C:/Users/ThompsonE/Documents/Projects/NOAA Surveys/IDapp/Latest/www")
+dat <- read.csv(file="./codingAug7.csv")
 
 
 ui <- fluidPage(theme = "stylesheet.css",
