@@ -90,7 +90,8 @@ server <- function(input, output){
     datatable(dat, filter = "top", options = list(
       autowidth=TRUE,
       columnDefs = list(list(width = '185px', targets = list(7,8,9,10)),
-                        list(className = 'dt-center', targets = '_all')),
+                        list(className = 'dt-center', targets = '_all'),
+                        list(visible=FALSE, targets=c(0,10))),
       pageLength = 5,
       lengthMenu = c(5, 10, 15, 20)
            ))
