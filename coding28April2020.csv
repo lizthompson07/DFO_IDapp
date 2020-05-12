@@ -6,7 +6,7 @@ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,Right
 1142,Kleenex,Y,2,N,N,,B no isl,B no isl,1142-Kleenex.jpg
 1149,Cream,N,2,Y,Y,,C 0 pen,C 0 pen,1149-Cream.jpg
 1209,EL,Y,2,Y,Y,,B 2 isl,B 1 isl,1209-EL_2019.jpg
-1227,Sliver,Y,2,,,,B long coam w isl,B long coam w isl,1227-Sliver_2019.jpg
+1227,Sliver,Y,2,N,N,,B long coam w isl,B long coam w isl,1227-Sliver_2019.jpg
 1245,Slalom,N,1,Y,Y,,C 1 pen or C isl,C 2 pen or C isl,1245-Slalom_2019.jpg
 1249,Lacrosse,N,2,Y,Y,,C 1 pen,C 2 pen,1249-Lacrosse_2019.jpg
 1271,Dropcloth,Y,2,Y,Y,,B long coam,B long coam,1271-Dropcloth_2019.jpg
@@ -62,7 +62,7 @@ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,Right
 2920,,Y,2,Y,Y,,B long coam no isl,B long coam no isl,2920_2019.jpg
 2930,Specs,Y,2,N,N,B 1 sym isl,B 1 isl,B 1 isl,2930-Specs.jpg
 2930,Specs,Y,2,N,N,B 1 sym isl,B 1 isl,B 1 isl,2930-Specs_2019.jpg
-3020,Giza,Y,2,,,B 2 isl R for,B 1 isl,B 1 isl,3020-Giza_2019.jpg
+3020,Giza,Y,2,N,N,B 2 isl R for,B 1 isl,B 1 isl,3020-Giza_2019.jpg
 3101,Harmonia,N,2,Y,Y,C 1 sym,C 1 or 2 pen,C 1 pen,3101- Harmonia_2019.jpg
 3110,,Y,2,N,N,,B 1 pen on coam,B dbl pen on coam,3110_2019.jpg
 3115,Harmony,Y,2,N,N,,B long pen coam,B long pen coam,3115-Harmony_2019.jpg
@@ -110,24 +110,25 @@ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,Right
 3651,,N,2,Y,Y,,C 2 pen,C 2 pen,3651_2019.jpg
 3660,Sirius,N,3,Y,Y,C 1 sym,C 1 pen,C 1 pen,3660-Sirius_2019.jpg
 3680,Sea Dragon,Y,3,N,N,,B no isl,B no isl,3680-SeaDragon_2019.jpg
-3701,Eros,Y,2,,,,,,3701-Eros_2019.jpg
-3701,Eros,Y,2,,,,,,3701-Eros_2019(1).jpg
+3701,Eros,Y,2,N,N,,B no isl,B no isl,3701-Eros_2019.jpg
+3701,Eros,Y,2,N,N,,B no isl,B no isl,3701-Eros_2019(1).jpg
 3720,,Y,2,N,N,,B long pen coam,B long pen coam,3720_2019.jpg
 3720,,Y,2,N,N,,B long pen coam,B long pen coam,3720_2019b.jpg
-3730,,,,,,,,,3730_2019.jpg
-3750,,Y,2,,,,B long coam w isl,B long coam w isl,3750_2019.jpg
+3730,,Y,2,N,N,,B long pen coam,B long pen coam,3730_2019.jpg
+3730,,N,2,N,N,,C 1 pen,C 1 pen,3730_2019.jpg
+3750,,Y,2,N,N,,B long coam w isl,B long coam w isl,3750_2019.jpg
 3812,,Y,2,Y,Y,,B no isl,B 1 isl,3812_2019.jpg
 3823,Sundog,Y,1,N,N,,B fused isl,B long coam w isl,3823_2019.jpg
 3823,Sundog,Y,2,N,N,,B fused isl,B long coam w isl,3823_2019.jpg
 3843,,N,2,N,N,C 2 pen L for,C 0 or 1 pen,C 0 or 1 pen,3843.jpg
-3845,Mogul,N,2,,,,C 1 pen,C 1 isl,3845_Mogul_2019.jog
+3845,Mogul,N,2,Y,Y,,C 1 isl,C 1 isl,3845_Mogul_2019.jpg
 3860,Bocce,Y,2,N,N,B any 4 asym,B 2 isl,B 2 isl,3860-Bocce_2019.jpg
 3860,Bocce,Y,4,N,N,B any 4 asym,B 2 isl,B 2 isl,3860-Bocce_2019.jpg
 3890,,Y,3,N,N,B 2 isl R for,B fused isl,B 1 isl,3890.jpg
 3892,,Y,2,N,N,,B no isl,B no isl,3892_2019.jpg
 3904,Champagne,Y,2,N,N,B any 4 asym,B 2 isl,B 2 isl,3904-Champagne_2019.jpg
 3904,Champagne,Y,2,N,N,B any 4 asym,B 2 isl,B fused isl,3904-Champagne_2019.jpg
-3912,Sickle,Y,2,,,,,,3912_2019.jpg
+3912,Sickle,Y,2,Y,Y,B 2 isl L for,B 1 isl,B 1 isl,3912_2019.jpg
 3920,Cottontail,Y,2,N,N,B 2 isl L for,B 1 isl,B 1 isl,3920_2019.jpg
 3940,Koala,Y,2,N,N,B any 4 asym,B 2 isl,B 2 isl,3940_Koala_2019.jpg
 3942,,Y,2,N,N,B 2 isl R for,B 1 isl,B 1 isl,3942_2019.jpg
@@ -167,14 +168,14 @@ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,Right
 4545,,Y,1,N,N,,B 2 isl,B 1 isl,4545.jpg
 4546,,Y,2,N,N,,B 2 isl,B 1 isl,4546.jpg
 4601,Gully,N,3,N,N,C 1 sym,C 1 pen,C 1 pen,4601_2019.jpg
-4612,,Y,2,,,,B long coam no isl,B long pen coam,4612_2019.jpg
+4612,,Y,2,N,N,,B long coam no isl,B long pen coam,4612_2019.jpg
 4615,,Y,2,N,N,,B long pen coam,B long pen coam,4615_2019.jpg
 4617,,N,2,Y,N,C 1 sym,C 1 pen,C 1 pen,4617_2019.jpg
 4620,,N,2,N,Y,C 2 pen L for,C 1 pen,C 1 pen,4620.jpg
 4620,,Y,2,N,Y,B 2 isl L for,B 1 isl,B 1 isl,4620.jpg
 4633,,Y,2,Y,Y,,B long pen coam,B long pen coam,4633_2019.jpg
-4650,Sebastian,Y,2,,,B 1 sym isl,B long coam w isl,B long coam w isl,4650_2019.jpg
-4650,Sebastian,Y,2,,,B 1 sym isl,B long coam w isl,B long coam w isl,4650_2019b.jpg
+4650,Sebastian,Y,2,N,N,B 1 sym isl,B 1 isl,B 1 isl,4650_2019.jpg
+4650,Sebastian,Y,2,N,N,B 1 sym isl,B 1 isl,B 1 isl,4650_2019b.jpg
 ,,Y,2,,,B 1 sym isl,B 1 isl,B 1 isl,_2019CalfOf3317_2019.jpg
 ,,N,2,,,,,,_G055_2019.jpg
 ,,N,2,,,C 2 pen L for,C 2 pen,C 1 pen,_2019CalfOf2791_2019(1).jpg
