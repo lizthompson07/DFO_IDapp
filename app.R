@@ -94,7 +94,7 @@ server <- function(input, output){
                         list(className = 'dt-center', targets = '_all'),
                         list(visible=FALSE, targets=c(0,10))),
       pageLength = 5,
-      lengthMenu = c(5, 10, 15, 20)
+      lengthMenu = c(5, 10, 15, 20, 40, 60)
            ))
   })
   
