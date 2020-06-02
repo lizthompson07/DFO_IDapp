@@ -5,7 +5,7 @@ library(DT)
 # setwd("C:/Users/ThompsonE/Documents/Projects/NOAA Surveys/IDapp/Latest/www")
 dat <- read.csv(file="./coding28April2020.csv")
 
-
+# ---- UI ----
 ui <- fluidPage(theme = "stylesheet.css",
   DTOutput("table"),
   uiOutput("images"),
@@ -84,6 +84,7 @@ ui <- fluidPage(theme = "stylesheet.css",
 )
 )
 
+# ---- Server ----
 server <- function(input, output){
   
   output[["table"]] <- renderDT({
@@ -113,5 +114,5 @@ server <- function(input, output){
   
 }
 
-
+# ---- ShinyApp ----
 shinyApp(ui, server)
