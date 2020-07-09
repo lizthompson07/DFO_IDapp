@@ -6,17 +6,23 @@ table, th, td {
 }
 
 img {
-  float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em; width: 500; height: 350px;
+  float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em; height: 350px;
  }
 "
 
 # ---- UI ----
 fluidPage(
   titlePanel("Search for Heads and Tails"),
+ 
   mainPanel(
     width = 12,
     tags$style(css),
     DTOutput("table"),
+    actionButton("select_all", "Select All"),
+    actionButton("select_clear", "Clear Selection"),
+    actionButton("filter_clear", "Clear Filter"),
+    tags$script(src = "clearfilter.js"),
+
     uiOutput("images"),
     uiOutput("tails")
   )

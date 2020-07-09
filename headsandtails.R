@@ -2,9 +2,6 @@
 ## Head and Tails ##
 ####################
 
-library(shiny)
-library(DT)
-
 css <-
   "
 table, th, td {
