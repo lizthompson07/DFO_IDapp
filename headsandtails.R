@@ -12,7 +12,7 @@ table, th, td {
 }
 
 img {
-  float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em; width: 500px; height: 350px;
+  float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em; width: 500; height: 350px;
  }
 "
 
@@ -25,10 +25,10 @@ ui <- fluidPage(
   mainPanel(
     width = 12,
     tags$style(css),
-                DTOutput("table"),
-                uiOutput("images"),
-                uiOutput("tails"),
-                )
+    DTOutput("table"),
+    uiOutput("images"),
+    uiOutput("tails")
+  )
 )
 
 # ---- Server ----
@@ -40,8 +40,8 @@ server <- function(input, output, session){
       columnDefs = list(list(width = '185px', targets = list(7,8,9,10)),
                         list(className = 'dt-center', targets = '_all'),
                         list(visible=FALSE, targets=c(0,10,11))),
-      pageLength = 5,
-      lengthMenu = c(5, 10, 15, 20, 40, 60)
+      pageLength = 6,
+      lengthMenu = c(6, 12, 18, 24, 30, 42, 58)
     ))
   })
   
@@ -74,4 +74,4 @@ server <- function(input, output, session){
 }
 
 # ---- ShinyApp ----
-shinyApp(ui, server)
+shinyApp(ui, server, options = list(height = 1080))
