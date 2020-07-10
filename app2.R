@@ -3,7 +3,7 @@ library(shiny)
 library(DT)
 
 
-# ---- DASHBOARD ----
+# ---- DASHBOARD UI ----
 ui <- dashboardPage(
   
   dashboardHeader(title = "GULF NARW IDapp"),
@@ -31,7 +31,7 @@ ui <- dashboardPage(
   )
 )
   
-
+# ---- DASHBOARD SERVER ----
 server = function(input, output, session) {
   
 }

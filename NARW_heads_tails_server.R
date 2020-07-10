@@ -3,12 +3,32 @@ dat <- read.csv(file="./coding02July2020.csv")
 
 # ---- Server ----
 
+# Action button to select all rows in current view
+var <- reactiveValues()
+tableProxy <- dataTableProxy('table')
+
+observeEvent(input$select_all_current, {
+  print("select_all_current")
+ # tableProxy %>% selectRows(1:nrow(input$table_rows_current))
+ # var$selected <- tableProxy %>% input$table_rows_current
+  
+  tableProxy <- #I want the table proxy to be whatever the current selection and filters are and the current page view to stay the same after selecting
+  var$selected <- input$table_rows_current
+})
+
+# Action button to add all rows in current view to previous selection
+observeEvent(input$add_to_selection, {
+  print("select_all_current")
+
+})
+
 # Action button to clear row selection
 selected_rows <- reactiveVal()
 
 tableProxy <- dataTableProxy('table')
 
 observeEvent(input$select_clear, {
+  print("select_clear")
   tableProxy %>% selectRows(NULL)
   selected_rows(NULL)
 })
@@ -20,12 +40,15 @@ clearColumnSearch <- function(proxy) {
 }
 
 observeEvent(input$filter_clear, {
+  print("select_clear")
   clearColumnSearch(proxy = dataTableProxy("table"))
 })
 
 # Data table with filtering
 output$table = DT::renderDT({
-  datatable(dat, filter = list(position = "top", clear = FALSE), options = list(
+  datatable(dat, filter = list(position = "top", clear = FALSE), 
+            selection = list(target = 'row', selected = var$selected),
+            options = list(
     autowidth = TRUE,
     columnDefs = list(list(width = '185px', targets = list(7,8,9,10)),
                       list(className = 'dt-center', targets = '_all'),
