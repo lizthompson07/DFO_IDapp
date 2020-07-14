@@ -9,16 +9,16 @@ tableProxy <- dataTableProxy('table')
 
 observeEvent(input$select_all_current, {
   print("select_all_current")
- # tableProxy %>% selectRows(1:nrow(input$table_rows_current))
- # var$selected <- tableProxy %>% input$table_rows_current
-  
-  tableProxy <- #I want the table proxy to be whatever the current selection and filters are and the current page view to stay the same after selecting
-  var$selected <- input$table_rows_current
+  selectRows(proxy = tableProxy,
+             selected = input$table_rows_current)
 })
 
 # Action button to add all rows in current view to previous selection
 observeEvent(input$add_to_selection, {
   print("select_all_current")
+  
+  selectRows(proxy = tableProxy,
+             selected = c(input$table_rows_selected, input$table_rows_current))
 
 })
 
@@ -47,7 +47,7 @@ observeEvent(input$filter_clear, {
 # Data table with filtering
 output$table = DT::renderDT({
   datatable(dat, filter = list(position = "top", clear = FALSE), 
-            selection = list(target = 'row', selected = var$selected),
+            selection = list(target = 'row'),
             options = list(
     autowidth = TRUE,
     columnDefs = list(list(width = '185px', targets = list(7,8,9,10)),

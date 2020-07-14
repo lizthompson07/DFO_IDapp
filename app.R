@@ -2,6 +2,10 @@
 ## Head and Tails ##
 ####################
 
+library (shinydashboard)
+library(shiny)
+library(DT)
+
 # ---- User Interface ---
 
 ui = source('./NARW_images_ui.R', local = TRUE)$value

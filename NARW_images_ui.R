@@ -23,8 +23,13 @@ fluidPage(
     actionButton("select_clear", "Clear Selection"),
     actionButton("filter_clear", "Clear Filter"),
     tags$script(src = "clearfilter.js"),
-
     uiOutput("images"),
     uiOutput("tails")
+    
+# to put heads and tails side by side  
+   # fluidRow(
+   # column(4, uiOutput("images")),
+   #  column(4, uiOutput("tails")),
+   #  )
   )
 )
