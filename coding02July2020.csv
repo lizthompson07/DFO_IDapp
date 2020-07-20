@@ -101,8 +101,8 @@ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,Right
 3651,,N,2,Y,Y,,C 2 pen,C 2 pen,3651.jpg,3651_T.jpg
 3660,Sirius,N,3,Y,Y,C 1 sym,C 1 pen,C 1 pen,3660-Sirius.jpg,3660-Sirius_T.jpg
 3680,Sea Dragon,Y,3,N,N,,B no isl,B no isl,3680-SeaDragon.jpg,3680-SeaDragon_T.jpg
-3701,Eros,Y,2,N,N,,B no isl,B no isl,3701-Eros.jpg,3701-Eros_T.jpg
-3701,Eros,Y,2,N,N,,B 1 isl,B 1 isl,3701-Eros.jpg,3701-Eros_T.jpg
+3701,Eros,Y,2,N,N,B 2 isl L for,B no isl,B no isl,3701-Eros.jpg,3701-Eros_T.jpg
+3701,Eros,Y,2,N,N,B 2 isl L for,B 1 isl,B 1 isl,3701-Eros.jpg,3701-Eros_T.jpg
 3720,,Y,2,N,N,,B long pen coam,B long pen coam,3720.jpg,3720_T.jpg
 3730,,Y,2,N,N,,B long pen coam,B long pen coam,3730.jpg,no_tail.jpg
 3730,,N,2,N,N,,C 1 pen,C 1 pen,3730.jpg,no_tail.jpg
