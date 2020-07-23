@@ -2,7 +2,7 @@
 ## Head and Tails ##
 ####################
 
-library (shinydashboard)
+library(shinydashboard)
 library(shiny)
 library(DT)
 
