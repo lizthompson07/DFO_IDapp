@@ -52,7 +52,7 @@ output$table = DT::renderDT({
     autowidth = TRUE,
     columnDefs = list(list(width = '185px', targets = list(7,8,9,10)),
                       list(className = 'dt-center', targets = '_all'),
-                      list(visible = FALSE, targets=c(0,10,11))),
+                      list(visible = FALSE, targets=c(0,11,12))),
     pageLength = 6,
     lengthMenu = c(6, 12, 18, 24, 30, 42, 58)
   ))
