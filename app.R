@@ -5,6 +5,7 @@
 library(shinydashboard)
 library(shiny)
 library(DT)
+library(shinyWidgets) #used for setBackgroundColor in ui
 
 # ---- User Interface ---
 

@@ -7,12 +7,13 @@ table, th, td {
 
 img {
   float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em; height: 350px;
- }
+}
 "
 
 # ---- UI ----
 fluidPage(
   titlePanel("Search for Heads and Tails"),
+  setBackgroundColor("skyblue"),
  
   mainPanel(
     width = 12,
