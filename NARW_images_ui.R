@@ -6,30 +6,52 @@ table, th, td {
 }
 
 img {
-  float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em; height: 350px;
- }
+  float: left; 
+  width: 30%; 
+  margin-right: 1%; 
+  margin-bottom: 0.5em; 
+  height: 350px;
+}
+
+.nav-tabs {
+  font-family: 'Lucida Sans', sans-serif;
+  font-weight: bold;
+}
+
+#pictabs {
+  padding-top:25px;
+}
 "
 
 # ---- UI ----
 fluidPage(
   titlePanel("Search for Heads and Tails"),
+  setBackgroundColor("skyblue"),
  
   mainPanel(
-    width = 12,
-    tags$style(css),
-    DTOutput("table"),
-    actionButton("select_all_current", "Select All Rows in View"),
-    actionButton("add_to_selection", "Add All Rows in View to Selection"),
-    actionButton("select_clear", "Clear Selection"),
-    actionButton("filter_clear", "Clear Filter"),
-    tags$script(src = "clearfilter.js"),
-    uiOutput("images"),
-    uiOutput("tails")
-    
+      width = 12,
+      tags$style(css),
+      DTOutput("table"),
+      actionButton("select_all_current", "Select All Rows in View"),
+      actionButton("add_to_selection", "Add All Rows in View to Selection"),
+      actionButton("select_clear", "Clear Selection"),
+      actionButton("filter_clear", "Clear Filter"),
+      tags$script(src = "clearfilter.js"),
+
+  fluidRow(id = "pictabs",
+    tabsetPanel(
+      tabPanel('Heads',
+        uiOutput("images")),
+      
+      tabPanel('Tails',
+        uiOutput("tails"))
+      )
+    )
+  )
 # to put heads and tails side by side  
    # fluidRow(
    # column(4, uiOutput("images")),
    #  column(4, uiOutput("tails")),
    #  )
   )
-)
+
