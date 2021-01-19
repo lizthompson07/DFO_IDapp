@@ -21,6 +21,7 @@ On first install you may also need to manually install the following packages by
 - install.packages("shiny")
 - install.packages("DT")
 - install.packages("shinydashboard")
+- install.packages("shinyWidgets")
 
 **Step 4:**
 From app.R click the small triangle beside "Run App" and choose 'Run External', then click "Run App". 
