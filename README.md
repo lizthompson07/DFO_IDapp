@@ -21,6 +21,7 @@ On first install you may also need to manually install the following packages by
 - install.packages("shiny")
 - install.packages("DT")
 - install.packages("shinydashboard")
+- install.packages("shinyWidgets")
 
 **Step 4:**
 From app.R click the small triangle beside "Run App" and choose 'Run External', then click "Run App". 
@@ -30,4 +31,4 @@ The easiest way to do this unless you are familiar with Git, is by coming back t
 
 
 # Running the app remotely (when you have internet connection)
-The app can be launched by entering shiny::runGitHub("DFO_IDapp", username = "lizthompson07", ref = "master") into the Console window and hitting “Run App” under the app.R window in top left of RStudio environment.
+The app can be launched by entering shiny::runGitHub("DFO_IDapp", username = "lizthompson07", ref = "master", launch.browser = TRUE) into the Console window and hitting “Run App” under the app.R window in top left of RStudio environment.
