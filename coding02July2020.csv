@@ -49,6 +49,7 @@ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,Right
 2503,Boomerang,Y,4,N,N,,B no isl,B no isl,,2503-Boomerang.jpg,2503-Boomerang_T.jpg
 2510,Mitosis,Y,2,N,N,B 2 isl R for,B 2 isl,B 1 isl,,2510.jpg,2510_T.jpg
 2510,Mitosis,Y,4,N,N,B 2 isl R for,B 2 isl,B 1 isl,,2510.jpg,2510_T.jpg
+2605,Smoke,N,4,N,N,C 1 sym,C 1 pen,C 1 pen,lip - line scar right,2605-Smoke.jpg,2605-Smoke_T.jpg
 2642,Echo,Y,2,N,Y,,B 1 isl,B no isl,,2642-Echo.jpg,2642-Echo_T.jpg
 2681,Hyphen,Y,2,N,Y,,B no isl,B no isl,coam - scar,2681-Hyphen.jpg,2681-Hyphen_T.jpg
 2681,Hyphen,Y,4,N,Y,,B no isl,B no isl,coam - scar,2681-Hyphen.jpg,2681-Hyphen_T.jpg
@@ -160,6 +161,7 @@ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,Right
 4545,,Y,1,N,N,,B 2 isl,B 1 isl,,4545.jpg,4545_T.jpg
 4546,,Y,2,N,N,,B 2 isl,B 1 isl,,4546.jpg,no_tail.jpg
 4601,Gully,N,3,N,N,B 2 isl R for,B 1 isl,B 1 isl,callosity - scar,4601-Gully.jpg,4601-Gully_T.jpg
+4605,,N,2,Y,Y,,C 2 pen,C 1 pen,back - line scar,4605.jpg,4605_T.jpg
 4612,,Y,2,N,N,,B long coam no isl,B long pen coam,,4612.jpg,no_tail.jpg
 4615,,Y,2,N,N,,B long pen coam,B long pen coam,,4615.jpg,no_tail.jpg
 4617,,N,2,Y,N,C 1 sym,C 1 pen,C 1 pen,,4617.jpg,4617_T.jpg
