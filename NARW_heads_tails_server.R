@@ -2,6 +2,9 @@
 # Make sure character columns are converted to factors (required for DT filter option)
 dat <- read.csv(file="./coding02July2020.csv", stringsAsFactors = TRUE)
 
+# Change NEAQ ID field into factor (instead of integer)
+dat$NEAQ.ID <- as.factor(dat$NEAQ.ID)
+
 # ---- Server ----
 
 # Action button to select all rows in current view
@@ -53,6 +56,7 @@ whaledt <- DT::datatable(dat,
                                      options = list(
                                        autowidth = TRUE,
                                        columnDefs = list(list(width = '185px', targets = list(7,8,9,10)),
+                                                         list(width = '75px', targets = list(1)),
                                                          list(className = 'dt-center', targets = '_all'),
                                                          list(visible = FALSE, targets=c(0,11,12))),
                                        pageLength = 6,
