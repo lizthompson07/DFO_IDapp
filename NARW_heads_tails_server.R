@@ -1,5 +1,6 @@
 # ---- Data File ----
-dat <- read.csv(file="./coding02July2020.csv")
+# Make sure character columns are converted to factors (required for DT filter option)
+dat <- read.csv(file="./coding02July2020.csv", stringsAsFactors = TRUE)
 
 # ---- Server ----
 
@@ -44,20 +45,39 @@ observeEvent(input$filter_clear, {
   clearColumnSearch(proxy = dataTableProxy("table"))
 })
 
+
+# Make datatable
+whaledt <- DT::datatable(dat,
+                         filter = list(position = "top", clear = FALSE),
+                                     selection = list(target = 'row'),
+                                     options = list(
+                                       autowidth = TRUE,
+                                       columnDefs = list(list(width = '185px', targets = list(7,8,9,10)),
+                                                         list(className = 'dt-center', targets = '_all'),
+                                                         list(visible = FALSE, targets=c(0,11,12))),
+                                       pageLength = 6,
+                                       lengthMenu = c(6, 12, 18, 24, 30, 42, 60, 90))
+                                     )
+
 # Data table with filtering
-output$table = DT::renderDT(
-  datatable(dat, filter = list(position = "top", clear = FALSE), 
-            selection = list(target = 'row'),
-            options = list(
-              autowidth = TRUE,
-              columnDefs = list(list(width = '185px', targets = list(7,8,9,10)),
-                                list(className = 'dt-center', targets = '_all'),
-                                list(visible = FALSE, targets=c(0,11,12))),
-              pageLength = 6,
-              lengthMenu = c(6, 12, 18, 24, 30, 42, 58))
-            ),
-  server = FALSE,
-  )
+output$table = DT::renderDT(whaledt, server = FALSE)
+
+
+# Combined method
+
+# output$table = DT::renderDT(
+#   datatable(dat, filter = list(position = "top", clear = FALSE),
+#             selection = list(target = 'row'),
+#             options = list(
+#               autowidth = TRUE,
+#               columnDefs = list(list(width = '185px', targets = list(7,8,9,10)),
+#                                 list(className = 'dt-center', targets = '_all'),
+#                                 list(visible = FALSE, targets=c(0,11,12))),
+#               pageLength = 6,
+#               lengthMenu = c(6, 12, 18, 24, 30, 42, 60, 90))
+#             ),
+#   server = FALSE,
+#   )
 
 # Reactive call that only renders images for selected rows (can change to "table_rows_current" to get all filtered results)
 df <- reactive({
