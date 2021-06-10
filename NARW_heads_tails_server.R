@@ -1,6 +1,6 @@
 # ---- Data File ----
 # Make sure character columns are converted to factors (required for DT filter option)
-dat <- read.csv(file="./coding02July2020.csv", stringsAsFactors = TRUE)
+dat <- read.csv(file="./coding.csv", stringsAsFactors = TRUE)
 
 # Change NEAQ ID field into factor (instead of integer)
 dat$NEAQ.ID <- as.factor(dat$NEAQ.ID)
