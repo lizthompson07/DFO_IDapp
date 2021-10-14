@@ -2,16 +2,17 @@ NEAQ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,
 1017,,N,1,N,Y,C 2 pen R for,C 1 or 2 pen,C 1 pen,,1017.jpg,1017_T.jpg
 1036,Peace,N,2,Y,Y,C 4 asym,C 2 pen,C 2 pen or C isl,,1036.jpg,no_tail.jpg
 1042,,Y,2,N,N,,B no isl,B 1 isl,,1042.jpg,1042_T.jpg
+1042,,Y,2,N,N,,B no isl,B no isl,,1042b.jpg,1042_T.jpg
 1112,Javelin,N,2,Y,Y,C 2 pen R for,C 1 pen,C 0 or 1 pen,back - long line scar right,1112-Javelin.jpg,1112-Javelin_T.jpg
 1142,Kleenex,Y,2,N,N,,B no isl,B no isl,,1142-Kleenex.jpg,1142-Kleenex_T.jpg
-1149,Cream,N,2,Y,Y,,C no pen,C no pen,,1149-Cream.jpg,no_tail.jpg
+1149,Cream,N,2,Y,Y,,C no pen,C no pen,,1149-Cream.jpg,1149-Cream_T.jpg
 1208,,Y,2,Y,Y,,B long coam w isl,B long coam w isl,,1208.jpg,1208_T.jpg
 1209,EL,Y,2,Y,Y,,B 2 isl,B 1 isl,,1209-EL.jpg,1209-EL_T.jpg
 1227,Sliver,Y,2,N,N,,B long coam w isl,B long coam w isl,,1227-Sliver.jpg,1227-Sliver_T.jpg
-1245,Slalom,N,1,Y,Y,,C 1 pen or C isl,C 2 pen or C isl,,1245-Slalom.jpg,1245-Slalom_T.jpg
+1245,Slalom,N,1,Y,Y,,C isl,C isl,,1245-Slalom.jpg,1245-Slalom_T.jpg
 1249,Lacrosse,N,2,Y,Y,,C 1 pen,C 2 pen,,1249-Lacrosse.jpg,1249-Lacrosse_T.jpg
-1271,Dropcloth,Y,2,Y,Y,,B long coam,B long coam,callosity - scar,1271-Dropcloth.jpg,no_tail.jpg
-1271,Dropcloth,N,2,Y,Y,,C 1 pen,C 1 pen,callosity - scar,1271-Dropcloth.jpg,no_tail.jpg
+1271,Dropcloth,Y,2,Y,Y,,B long coam,B long coam,back - long line scar right,1271-Dropcloth.jpg,1271-Dropcloth_T.jpg
+1271,Dropcloth,N,2,Y,Y,,C 1 pen,C 1 pen,back - long line scar right,1271b-Dropcloth.jpg,1271-Dropcloth_T.jpg
 1307,,Y,2,N,N,B 2 isl R for,B 1 isl,B 1 isl,,1307.jpg,1307_T.jpg
 1317,Ergo,N,2,N,N,C 4 asym,C 2 pen or C isl,C 2 pen,back - 3 divot scars,1317-Ergo.jpg,no_tail.jpg
 1317,Ergo,Y,2,N,N,B any 4 asym,B long coam w isl,B long coam w isl,back - 3 divot scars,1317-Ergo2.jpg,no_tail.jpg
@@ -31,8 +32,8 @@ NEAQ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,
 1720,Galileo,Y,1,N,N,B 2 isl R for,B long coam w isl,B long coam no isl,,1720-Galileo.jpg,1720-Galileo_T.jpg
 1801,Sparky,Y,2,Y,Y,,B long coam w isl,B long coam w isl,,1801-Sparky.jpg,no_tail.jpg
 1812,War,Y,2,Y,Y,,B no isl,B no isl,,1812-War.jpg,no_tail.jpg
-1817,Silt,N,2,N,N,,C 1 pen,C 2 pen or C isl,,1817-Silt.jpg,1817-Silt_T.jpg
-1817,Silt,Y,2,N,N,,B long coam,B long coam,,1817-Silt_B.jpg,1817-Silt_T.jpg
+1817,Silt,N,2,N,N,,C 1 pen,C 2 pen,lip - small scar front right,1817-Silt.jpg,1817-Silt_T.jpg
+1817,Silt,Y,2,N,N,,B long coam,B long coam,lip - small scar front right,1817-Silt_B.jpg,1817-Silt_T.jpg
 1820,Cello,N,2,Y,Y,C 1 sym,C 1 pen,C 1 pen,,1820-Cello.jpg,1820-Cello_T.jpg
 1934,Sagamore,N,1,Y,Y,C any 4 asym,C 2 pen,C 2 pen,back - line scar,1934-Sagamore.jpg,1934-Sagamore_T.jpg
 1971,Nantucket,Y,1,N,N,B 2 isl R for,B 1 isl,B 1 isl,callosity - scar,1971-Nantucket.jpg,1971-Nantucket_T.jpg
@@ -43,7 +44,7 @@ NEAQ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,
 2223,Calvin,Y,3,N,N,B 2 isl R for,B 1 isl,B 1 isl,,2223-Calvin.jpg,2223-Calvin_T.jpg
 2271,Prescott,N,2,Y,Y,C 1 sym,C 1 pen,C 1 pen,back - scar round patch left,2271-Prescott.jpg,2271-Prescott_T.jpg
 2303,,Y,1,N,N,B 2 isl L for,B 2 isl,B 1 isl,,2303.jpg,no_tail.jpg
-2340,Swan,N,2,Y,Y,C 2 pen R for,C 1 pen,C 1 pen or dbl,,2340.jpg,2340_T.jpg
+2340,Swan,N,2,Y,Y,C 2 pen R for,C 1 pen,C 1 or 2 pen,lip - small scar left front of callosity,2340.jpg,2340_T.jpg
 2427,Cicatrix,N,2,Y,Y,,C isl,C isl,,2427-Cicatrix.jpg,no_tail.jpg
 2503,Boomerang,Y,1,N,N,,B no isl,B no isl,,2503-Boomerang.jpg,2503-Boomerang_T.jpg
 2503,Boomerang,Y,4,N,N,,B no isl,B no isl,,2503-Boomerang.jpg,2503-Boomerang_T.jpg
@@ -81,8 +82,8 @@ NEAQ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,
 3232,Lobster,Y,2,N,N,B 2 isl L for,B 1 isl,B 1 isl,2021 mom,3232-Lobster.jpg,3232-Lobster_T.jpg
 3245,Zion,Y,2,Y,Y,B 2 isl L for,B 1 isl,B 1 isl,,3245-Zion.jpg,3245-Zion_T.jpg
 3296,,N,2,Y,Y,C 2 pen R for,C 1 pen,C 1 pen,,3296.jpg,no_tail.jpg
-3301,Neptune,N,2,N,N,C 2 pen R for,C 1 pen,C 1 pen,,3301_Neptune.jpg,no_tail.jpg
-3301,Neptune,N,2,N,N,,B long coam no isl,B long coam no isl,,3301_Neptune.jpg,no_tail.jpg
+3301,Neptune,N,2,N,N,C 2 pen R for,C 1 pen,C 1 pen,,3301_Neptune.jpg,3301-Neptune_T.jpg
+3301,Neptune,Y,2,N,N,,B long coam no isl,B long coam no isl,,3301b_Neptune.jpg,3301-Neptune_T.jpg
 3310,,N,2,Y,Y,C 2 pen L for,C 1 or 2 pen,C 1 or 2 pen,,3310.jpg,no_tail.jpg
 3312,,N,2,Y,Y,C 1 sym,C 1 pen,C 1 pen,,3312.jpg,3312_T.jpg
 3317,Frida,Y,1,Y,Y,,B long pen coam,B long pen coam,,3317-Frida.jpg,3317-Frida_T.jpg
@@ -103,7 +104,8 @@ NEAQ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,
 3560,Snow Cone,Y,2,N,N,,B long coam w isl,B long coam w isl,coam - scar,3560-Snow Cone2.jpg,3560-Snow Cone_T.jpg
 3579,,N,2,Y,Y,,C 2 pen,C 3 pen,,3579.jpg,3579_T.jpg
 3617,Salem,N,1,Y,Y,,C 0 or 1 pen,C 0 or 1 pen,,3617-Salem.jpg,3617-Salem_T.jpg
-3623,Bongo,N,2,N,N,C all 4 sym,C 2 pen,C 2 pen,,3623-Bongo.jpg,3623-Bongo_T.jpg
+3623,Bongo,N,2,N,N,C all 4 sym,C 2 pen,C 2 pen,coam - scar,3623-Bongo.jpg,3623-Bongo_T.jpg
+3623,Bongo,Y,2,N,N,,B long coam,B long coam,coam - scar,3623b-Bongo.jpg,3623-Bongo_T.jpg
 3646,,Y,2,N,Y,B 2 isl L for,B 1 isl,B 1 isl,,3646.jpg,no_tail.jpg
 3651,,N,2,Y,Y,,C 2 pen,C 2 pen,,3651.jpg,3651_T.jpg
 3660,Sirius,N,3,Y,Y,C 1 sym,C 1 pen,C 1 pen,back - scar large patch,3660-Sirius.jpg,3660-Sirius_T.jpg
@@ -153,8 +155,8 @@ NEAQ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,
 4445,Bishop,N,2,N,N,C 2 pen L for,C 1 pen,C 1 pen,,4445-Bishop.jpg,no_tail.jpg
 4446,,Y,2,N,N,,B long pen coam,B long pen coam,,4446.jpg,4446_T.jpg
 4457,,Y,2,Y,Y,,B long pen coam,B long pen coam,,4457.jpg,4457_T.jpg
-4501,,N,2,Y,Y,C 2 pen L for,C 1 pen,C 1 or 2 pen,,4501.jpg,4501_T.jpg
-4510,,Y,2,N,N,B 1 sym isl,B 1 isl,B 1 isl,back - scar small patch,4510.jpg,4510_T.jpg
+4501,,N,2,Y,Y,C 2 pen L for,C 1 pen,C 1 pen,callosity - dot scar right,4501.jpg,4501_T.jpg
+4510,,Y,2,N,N,B 1 sym isl,B 1 isl,B 2 isl,back - scar small patch,4510.jpg,4510_T.jpg
 4523,,Y,4,N,N,B 1 sym isl,B 1 isl,B 1 isl,,4523.jpg,4523_T.jpg
 4530,,Y,2,N,N,,B 2 isl,B 2 isl,,4530.jpg,no_tail.jpg
 4539,,Y,2,N,Y,,B long pen coam,B long pen coam,,4539.jpg,4539_T.jpg
@@ -169,11 +171,11 @@ NEAQ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,
 4620,,Y,2,N,Y,B 2 isl L for,B 1 isl,B 1 isl,,4620.jpg,no_tail.jpg
 4633,,Y,2,Y,Y,,B long pen coam,B long pen coam,,4633.jpg,4633_T.jpg
 4650,Sebastian,Y,2,N,N,B 1 sym isl,B 1 isl,B 1 isl,,4650-Sebastian.jpg,no_tail.jpg
+4680,G055,N,2,,,C 2 pen R for,C 1 pen,C 2 pen,,4680.jpg,4680_T.jpg
+4720,G056,N,2,N,N,C any 4 asym,C 2 pen,C 2 pen,,4720.jpg,4720_T.jpg
 ,2019CalfOf3317,Y,2,,,B 1 sym isl,B 1 isl,B 1 isl,,_2019CalfOf3317.jpg,no_tail.jpg
 ,2019CalfOf2791,N,2,,,C 2 pen L for,C 2 pen,C 1 pen,,_2019CalfOf2791.jpg,no_tail.jpg
 ,2019CalfOf4180,N,2,,,C 2 pen R for,C 1 pen,C 1 pen,,_2019CalfOf4180.jpg,no_tail.jpg
-,G055,N,2,,,C 2 pen R for,C 1 pen,C 2 pen,,_G055.jpg,_G055_T.jpg
-,G056,N,2,N,N,C any 4 asym,C 2 pen,C 2 pen,,_G056.jpg,_G056_T.jpg
 ,2019CalfOf2503,Y,,,,B 1 sym isl,,,,_2019CalfOf2503.jpg,no_tail.jpg
 ,2020CalfOf3546,N,,,,,,,,_2020CalfOf3546.jpg,_2020CalfOf3546_T.jpg
 ,2020CalfOf3101,N,,,,,,,back - scar medium patch,_2020CalfOf3101.jpg,_2020CalfOf3101_T.jpg
