@@ -44,7 +44,13 @@ fluidPage(
         uiOutput("images")),
       
       tabPanel('Tails',
-        uiOutput("tails"))
+        uiOutput("tails")),
+      
+      tabPanel('Left Side',
+        uiOutput("lefts")),
+      
+      tabPanel('Right Side',
+        uiOutput("rights"))
       )
     )
   )

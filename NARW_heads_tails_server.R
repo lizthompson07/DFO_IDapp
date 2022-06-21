@@ -58,7 +58,7 @@ whaledt <- DT::datatable(dat,
                                        columnDefs = list(list(width = '185px', targets = list(7,8,9,10)),
                                                          list(width = '75px', targets = list(1)),
                                                          list(className = 'dt-center', targets = '_all'),
-                                                         list(visible = FALSE, targets=c(0,11,12))),
+                                                         list(visible = FALSE, targets=c(0,11,12, 13, 14))),
                                        pageLength = 6,
                                        lengthMenu = c(6, 12, 18, 24, 30, 42, 60, 90))
                                      )
@@ -110,4 +110,28 @@ output$tails = renderUI({
     
   })
   do.call(tagList, tailimgs)
+})
+
+# Left side image output with titlescript.js which gives the name of the image file on mouseover
+output$lefts = renderUI({
+  leftimgs <- lapply(df()$lefthead, function(file){
+    tags$div(
+      tags$img(src=file, width="100%", height="100%"),
+      tags$script(src="titlescript.js")
+    )
+    
+  })
+  do.call(tagList, leftimgs)
+})
+
+# Right side image output with titlescript.js which gives the name of the image file on mouseover
+output$rights = renderUI({
+  rightimgs <- lapply(df()$righthead, function(file){
+    tags$div(
+      tags$img(src=file, width="100%", height="100%"),
+      tags$script(src="titlescript.js")
+    )
+    
+  })
+  do.call(tagList, rightimgs)
 })
