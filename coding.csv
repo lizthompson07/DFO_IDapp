@@ -163,6 +163,7 @@ NEAQ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,
 4457,Seamount,Y,2,Y,Y,,B long pen coam,B long pen coam,,4457b-Seamount.jpg,4457-Seamount_T.jpg,left-nohead.jpg,right-nohead.jpg
 4501,,N,2,Y,Y,C 2 pen L for,C 1 pen,C 1 pen,callosity - dot scar right,4501.jpg,4501_T.jpg,left-nohead.jpg,right-nohead.jpg
 4510,Shelagh,Y,2,N,N,B 1 sym isl,B 1 isl,B 2 isl,back - scar small patch,4510-Shelagh.jpg,4510-Shelagh_T.jpg,left-nohead.jpg,right-nohead.jpg
+4523,,Y,4,N,N,,B no isl,B no isl,,4523.jpg,4523_T.jpg,left-nohead.jpg,right-nohead.jpg
 4523,,Y,4,N,N,B 1 sym isl,B 1 isl,B 1 isl,,4523.jpg,4523_T.jpg,left-nohead.jpg,right-nohead.jpg
 4530,,Y,2,N,N,,B 2 isl,B 2 isl,,4530.jpg,4530_T.jpg,left-nohead.jpg,right-nohead.jpg
 4539,,Y,2,N,Y,,B long pen coam,B long pen coam,,4539.jpg,4539_T.jpg,left-nohead.jpg,right-nohead.jpg
@@ -170,12 +171,13 @@ NEAQ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,
 4546,,Y,2,N,N,,B 2 isl,B 1 isl,,4546.jpg,4546_T.jpg,left-nohead.jpg,right-nohead.jpg
 4601,Gully,N,3,N,N,B 2 isl R for,B 1 isl,B 1 isl,callosity - scar,4601-Gully.jpg,4601-Gully_T.jpg,left-nohead.jpg,right-nohead.jpg
 4605,,N,2,Y,Y,,C 2 pen,C 1 pen,back - line scar,4605.jpg,4605_T.jpg,left-nohead.jpg,right-nohead.jpg
-4612,,Y,2,N,N,,B long coam no isl,B long pen coam,pbh - small lines behind,4612.jpg,4612_T.jpg,left-nohead.jpg,right-nohead.jpg
+4612,,Y,2,N,N,,B long coam no isl,B long coam w isl,pbh - small lines behind,4612.jpg,4612_T.jpg,left-nohead.jpg,right-nohead.jpg
 4615,,Y,2,N,N,,B long pen coam,B long pen coam,,4615.jpg,4615_T.jpg,left-nohead.jpg,right-nohead.jpg
 4617,,N,2,Y,N,C 1 sym,C 1 pen,C 1 pen,,4617.jpg,4617_T.jpg,left-nohead.jpg,right-nohead.jpg
 4620,,N,2,N,Y,C 2 pen L for,C 1 pen,C 1 pen,,4620.jpg,4620_T.jpg,left-nohead.jpg,right-nohead.jpg
 4620,,Y,2,N,Y,B 2 isl L for,B 1 isl,B 1 isl,,4620.jpg,4620_T.jpg,left-nohead.jpg,right-nohead.jpg
 4633,,Y,2,Y,Y,,B long pen coam,B long pen coam,,4633.jpg,4633_T.jpg,left-nohead.jpg,right-nohead.jpg
+4640,,Y,2,Y,Y,,B no isl,B no isl,,4640b.jpg,4640b_T.jpg,left-nohead.jpg,right-nohead.jpg
 4640,,Y,2,Y,Y,B 1 sym isl,B 1 isl,B 1 isl,,4640.jpg,4640_T.jpg,left-nohead.jpg,right-nohead.jpg
 4650,Sebastian,Y,2,N,N,B 1 sym isl,B 1 isl,B 1 isl,,4650-Sebastian.jpg,4650-Sebastian_T.jpg,left-nohead.jpg,right-nohead.jpg
 4680,G055,N,2,,,C 2 pen R for,C 1 pen,C 2 pen,,4680.jpg,4680_T.jpg,left-nohead.jpg,right-nohead.jpg
