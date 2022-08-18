@@ -4,6 +4,7 @@ NEAQ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,
 1042,,Y,2,N,N,,B no isl,B 1 isl,,1042.jpg,1042_T.jpg,1042-left.jpg,1042-right.jpg
 1042,,Y,2,N,N,,B no isl,B no isl,,1042b.jpg,1042_T.jpg,1042-left.jpg,1042-right.jpg
 1112,Javelin,N,2,Y,Y,C 2 pen R for,C 1 pen,C 0 or 1 pen,back - long line scar right,1112-Javelin.jpg,1112-Javelin_T.jpg,1112-Javelin-left.jpg,1112-Javelin-right.jpg
+1112,Javelin,Y,2,Y,Y,,B no isl,B no isl,back - long line scar right,1112-Javelin.jpg,1112-Javelin_T.jpg,1112-Javelin-left.jpg,1112-Javelin-right.jpg
 1142,Kleenex,Y,2,N,N,,B no isl,B no isl,,1142-Kleenex.jpg,1142-Kleenex_T.jpg,1142-Kleenex-left.jpg,1142-Kleenex-right.jpg
 1149,Cream,N,2,Y,Y,,C no pen,C no pen,,1149-Cream.jpg,1149-Cream_T.jpg,1149-Cream-left.jpg,1149-Cream-right.jpg
 1208,,Y,2,Y,Y,,B long coam w isl,B long coam w isl,,1208.jpg,1208_T.jpg,1208-left.jpg,1208-right.jpg
@@ -97,10 +98,12 @@ NEAQ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,
 3390,,Y,2,Y,Y,B 1 sym isl,B 1 isl,B 1 isl,,3390.jpg,3390_T.jpg,3390-left.jpg,3390-right.jpg
 3390,,Y,3,Y,Y,B 1 sym isl,B 1 isl,B 1 isl,,3390.jpg,3390_T.jpg,3390-left.jpg,3390-right.jpg
 3420,Platypus,Y,2,Y,Y,,B long coam w isl,B long coam w isl,back - scar large patch,3420-Platypus.jpg,3420-Platypus_T.jpg,3420-Platypus-left.jpg,3420-Platypus-right.jpg
+3420,Platypus,Y,2,Y,Y,,B long pen coam,B long pen coam,back - scar thin patch,3420-Platypus.jpg,3420-Platypus_T.jpg,3420-Platypus-left.jpg,3420-Platypus-right.jpg
 3440,Cypress,N,1,Y,Y,,C isl,C isl,,3440-Cypress.jpg,3440-Cypress_T.jpg,3440-Cypress-left.jpg,3440-Cypress-right.jpg
 3442,Armada,N,2,Y,Y,,C no pen,C no pen,back - lines 4 small,3442-Armada.jpg,3442-Armada_T.jpg,3442-Armada-left.jpg,3442-Armada-right.jpg
 3510,Twister,N,2,N,N,C 2 pen R for,C 1 pen,C 1 pen,,3510-Twister.jpg,3510-Twister_T.jpg,3510-Twister-left.jpg,3510-Twister-right.jpg
 3520,Millipede,Y,4,N,N,B 1 sym isl,B long coam w isl,B long coam w isl,2021 mom,3520-Millipede.jpg,3520-Millipede_T.jpg,3520-Millipede-left.jpg,3520-Millipede-right.jpg
+3520,Millipede,Y,4,N,N,,B long pen coam,B long pen coam,2021 mom,3520-Millipede.jpg,3520-Millipede_T.jpg,3520-Millipede-left.jpg,3520-Millipede-right.jpg
 3530,Ruffian,Y,2,N,N,B 2 isl R for,B long coam w isl,B long coam w isl,scars everywhere,3530-Ruffian.jpg,3530-Ruffian_T.jpg,3530-Ruffian-left.jpg,3530-Ruffian-right.jpg
 3546,Halo,N,4,N,Y,,C 1 pen,C 2 pen,,3546-Halo.jpg,3546-Halo_T.jpg,3546-Halo-left.jpg,3546-Halo-right.jpg
 3550,,N,2,Y,Y,,C 2 pen,C 1 pen,,3550.jpg,3550_T.jpg,3550-left.jpg,3550-right.jpg
@@ -188,7 +191,7 @@ NEAQ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,
 4991,2019CalfOf2791,N,2,,,C 2 pen R for,C 1 pen,C 1 pen,,4991.jpg,no_tail.jpg,4991-left.jpg,4991-right.jpg
 ,2019CalfOf4180,N,2,,,C 2 pen R for,C 1 pen,C 1 pen,,_2019CalfOf4180.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
 ,2020CalfOf3546,N,,,,,,,,_2020CalfOf3546.jpg,_2020CalfOf3546_T.jpg,left-nohead.jpg,right-nohead.jpg
-,2020CalfOf3101,N,,,,,,,back - scar medium patch,_2020CalfOf3101.jpg,_2020CalfOf3101_T.jpg,left-nohead.jpg,right-nohead.jpg
+,2020CalfOf3101,N,1,N,N,,C 2 pen,C 2 pen,back - scar small axe shape,_2020CalfOf3101.jpg,_2020CalfOf3101_T.jpg,left-nohead.jpg,right-nohead.jpg
 ,2020CalfOf2642,Y,,,,,,,back - line scar,_2020CalfOf2642.jpg,_2020CalfOf2642_T.jpg,left-nohead.jpg,right-nohead.jpg
 ,2021CalfOf3520,Y,,,,,,,2021 calf,_2021CalfOf3520.jpg,_2021CalfOf3520_T.jpg,left-nohead.jpg,right-nohead.jpg
 ,2021CalfOf3942,N,,,,,,,2021 calf,_2021CalfOf3942.jpg,_2021CalfOf3942_T.jpg,left-nohead.jpg,right-nohead.jpg
