@@ -112,6 +112,19 @@ output$tails = renderUI({
   do.call(tagList, tailimgs)
 })
 
+# Ventral tail image output with titlescript.js which gives the name of the image file on mouseover
+output$ventrals = renderUI({
+  ventralimgs <- lapply(df()$ventraltail, function(file){
+    tags$div(
+      tags$img(src=file, width="100%", height="100%"),
+      tags$script(src="titlescript.js")
+    )
+    
+  })
+  do.call(tagList, ventralimgs)
+})
+
+
 # Left side image output with titlescript.js which gives the name of the image file on mouseover
 output$lefts = renderUI({
   leftimgs <- lapply(df()$lefthead, function(file){

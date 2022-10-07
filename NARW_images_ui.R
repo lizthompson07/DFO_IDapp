@@ -46,6 +46,9 @@ fluidPage(
       tabPanel('Tails',
         uiOutput("tails")),
       
+      tabPanel('Ventral Tail',
+        uiOutput("ventrals")),
+      
       tabPanel('Left Side',
         uiOutput("lefts")),
       
