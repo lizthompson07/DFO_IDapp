@@ -59,26 +59,26 @@ NEAQ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,
 2642,Echo,Y,2,N,Y,,B 1 isl,B no isl,,2642-Echo.jpg,2642-Echo_T.jpg,2642-Echo_VT.jpg,2642-Echo-left.jpg,2642-Echo-right.jpg
 2681,Hyphen,Y,2,N,Y,,B no isl,B no isl,coam - scar,2681-Hyphen.jpg,2681-Hyphen_T.jpg,no_tail.jpg,2681-Hyphen-left.jpg,2681-Hyphen-right.jpg
 2681,Hyphen,Y,4,N,Y,,B no isl,B no isl,coam - scar,2681-Hyphen.jpg,2681-Hyphen_T.jpg,no_tail.jpg,2681-Hyphen-left.jpg,2681-Hyphen-right.jpg
-2705,Silver,Y,2,Y,N,B 1 sym isl,B 2 isl,B 1 isl,bh - scar,2705-Silver.jpg,2705-Silver_T.jpg,no_tail.jpg,2705-Silver-left.jpg,2705-Silver-right.jpg
-2743,Ellipsis,Y,3,Y,Y,,B long coam w isl,B long coam no isl,,2743-Ellipsis.jpg,2743-Ellipsis_T.jpg,no_tail.jpg,2743-Ellipsis-left.jpg,2743-Ellipsis-right.jpg
-2750,Haley,N,2,N,N,,C 1 pen,C 1 or 2 pen,,2750-Haley.jpg,2750-Haley_T.jpg,no_tail.jpg,2750-Haley-left.jpg,2750-Haley-right.jpg
-2753,Arpeggio,Y,2,Y,Y,,B long pen coam,B long pen coam,2022 mom,2753-Arpeggio.jpg,2753-Arpeggio_T.jpg,no_tail.jpg,2753-Arpeggio-left.jpg,2753-Arpeggio-right.jpg
-2760,,Y,2,N,Y,B 1 sym isl,B 1 isl,B 1 isl,,2760.jpg,2760_T.jpg,no_tail.jpg,2760-left.jpg,2760-right.jpg
+2705,Silver,Y,2,Y,N,B 1 sym isl,B 2 isl,B 1 isl,bh - scar,2705-Silver.jpg,2705-Silver_T.jpg,2705-Silver_VT.jpg,2705-Silver-left.jpg,2705-Silver-right.jpg
+2743,Ellipsis,Y,3,Y,Y,,B long coam w isl,B long coam no isl,,2743-Ellipsis.jpg,2743-Ellipsis_T.jpg,2743-Ellipsis_VT.jpg,2743-Ellipsis-left.jpg,2743-Ellipsis-right.jpg
+2750,Haley,N,2,N,N,,C 1 pen,C 1 or 2 pen,,2750-Haley.jpg,2750-Haley_T.jpg,2750-Haley_VT.jpg,2750-Haley-left.jpg,2750-Haley-right.jpg
+2753,Arpeggio,Y,2,Y,Y,,B long pen coam,B long pen coam,2022 mom,2753-Arpeggio.jpg,2753-Arpeggio_T.jpg,2753-Arpeggio_VT.jpg,2753-Arpeggio-left.jpg,2753-Arpeggio-right.jpg
+2760,,Y,2,N,Y,B 1 sym isl,B 1 isl,B 1 isl,,2760.jpg,2760_T.jpg,2760_VT.jpg,2760-left.jpg,2760-right.jpg
 2791,Fenway,N,2,Y,Y,,C 1 or 2 pen,C 1 pen,bh - scar,2791-Fenway.jpg,2791-Fenway_T.jpg,2791-Fenway_VT.jpg,left-nohead.jpg,2791-Fenway-right.jpg
 2904,,N,2,Y,Y,C 2 pen L for,C 1 pen,C 1 pen,face - 3 dots left,2904_overhead.jpg,2904_T.jpg,no_tail.jpg,2904-left.jpg,2904-right.jpg
 2904,,N,2,Y,Y,C 1 sym,C 1 pen,C 1 pen,face - 3 dots left,2904_left.jpg,2904_T.jpg,no_tail.jpg,2904-left.jpg,2904-right.jpg
-2910,,N,2,N,Y,C 1 sym,C 1 pen,C 1 pen,,2910.jpg,2910_T.jpg,no_tail.jpg,2910-left.jpg,2910-right.jpg
-2920,,Y,2,Y,Y,,B long coam no isl,B long coam no isl,,2920.jpg,2920_T.jpg,no_tail.jpg,2920-left.jpg,2920-right.jpg
-2930,Specs,Y,2,N,N,B 1 sym isl,B 1 isl,B 1 isl,callosity - scar,2930-Specs.jpg,2930-Specs_T.jpg,no_tail.jpg,2930-Specs-left.jpg,2930-Specs-right.jpg
-3020,Giza,Y,2,N,N,,B 1 isl,B 1 isl,2021 mom,3020-Giza.jpg,3020-Giza_T.jpg,no_tail.jpg,3020-Giza-left.jpg,3020-Giza-right.jpg
-3101,Harmonia,N,2,Y,Y,C 1 sym,C 1 pen,C 1 pen,,3101-Harmonia.jpg,3101-Harmonia_T.jpg,no_tail.jpg,3101-Harmonia-left.jpg,3101-Harmonia-right.jpg
+2910,,N,2,N,Y,C 1 sym,C 1 pen,C 1 pen,,2910.jpg,2910_T.jpg,2910_VT.jpg,2910-left.jpg,2910-right.jpg
+2920,,Y,2,Y,Y,,B long coam no isl,B long coam no isl,,2920.jpg,2920_T.jpg,2920_VT.jpg,2920-left.jpg,2920-right.jpg
+2930,Specs,Y,2,N,N,B 1 sym isl,B 1 isl,B 1 isl,callosity - scar,2930-Specs.jpg,2930-Specs_T.jpg,2930-Specs_VT.jpg,2930-Specs-left.jpg,2930-Specs-right.jpg
+3020,Giza,Y,2,N,N,,B 1 isl,B 1 isl,2021 mom,3020-Giza.jpg,3020-Giza_T.jpg,3020-Giza_VT.jpg,3020-Giza-left.jpg,3020-Giza-right.jpg
+3101,Harmonia,N,2,Y,Y,C 1 sym,C 1 pen,C 1 pen,,3101-Harmonia.jpg,3101-Harmonia_T.jpg,3101-Harmonia_VT.jpg,3101-Harmonia-left.jpg,3101-Harmonia-right.jpg
 3110,,Y,2,N,N,,B 1 pen on coam,B dbl pen on coam,,3110.jpg,3110_T.jpg,no_tail.jpg,3110-left.jpg,3110-right.jpg
-3115,Harmony,Y,2,N,N,,B long pen coam,B long pen coam,,3115-Harmony.jpg,3115-Harmony_T.jpg,no_tail.jpg,3115-Harmony-left.jpg,3115-Harmony-right.jpg
-3115,Harmony,Y,3,N,N,,B long pen coam,B long pen coam,,3115-Harmony.jpg,3115-Harmony_T.jpg,no_tail.jpg,3115-Harmony-left.jpg,3115-Harmony-right.jpg
+3115,Harmony,Y,2,N,N,,B long pen coam,B long pen coam,,3115-Harmony.jpg,3115-Harmony_T.jpg,3115-Harmony_VT.jpg,3115-Harmony-left.jpg,3115-Harmony-right.jpg
+3115,Harmony,Y,3,N,N,,B long pen coam,B long pen coam,,3115-Harmony.jpg,3115-Harmony_T.jpg,3115-Harmony_VT.jpg,3115-Harmony-left.jpg,3115-Harmony-right.jpg
 3125,,N,2,Y,Y,C any 4 asym,C 1 pen,C 1 or 2 pen,,3125.jpg,3125_T.jpg,no_tail.jpg,3125-left.jpg,3125-right.jpg
 3140,Lou,N,1,Y,Y,C any 4 asym,C 2 pen,C 3 pen or C isl,,3140-Lou.jpg,3140-Lou_T.jpg,no_tail.jpg,left-nohead.jpg,3140-Lou-right.jpg
-3157,,N,2,Y,Y,,C 1 pen,C 2 pen,2022 mom,3157.jpg,3157_T.jpg,no_tail.jpg,3157-left.jpg,3157-right.jpg
-3191,,N,2,Y,Y,,C 1 or 2 pen or C isl,C 1 or 2 pen,,3191.jpg,3191_T.jpg,no_tail.jpg,3191-left.jpg,3191-right.jpg
+3157,,N,2,Y,Y,,C 1 pen,C 2 pen,2022 mom,3157.jpg,3157_T.jpg,3157_VT.jpg,3157-left.jpg,3157-right.jpg
+3191,,N,2,Y,Y,,C 1 or 2 pen or C isl,C 1 or 2 pen,,3191.jpg,3191_T.jpg,3191_VT.jpg,3191-left.jpg,3191-right.jpg
 3193,Toothbrush,N,2,Y,Y,C 1 sym,C 1 pen,C 1 pen,,3193-Toothbrush.jpg,3193-Toothbrush_T.jpg,3193-Toothbrush_VT.jpg,3193-Toothbrush-left.jpg,3193-Toothbrush-right.jpg
 3194,,Y,2,Y,Y,B 2 isl L for,B 1 isl,B 1 isl,,3194.jpg,3194_T.jpg,no_tail.jpg,3194-left.jpg,right-nohead.jpg
 3229,,N,2,Y,Y,,C 2 pen,C 1 pen,bh - scar,3229_left.jpg,3229_T.jpg,no_tail.jpg,3229-left.jpg,right-nohead.jpg
