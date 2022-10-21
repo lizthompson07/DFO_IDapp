@@ -58,7 +58,7 @@ whaledt <- DT::datatable(dat,
                                        columnDefs = list(list(width = '185px', targets = list(7,8,9,10)),
                                                          list(width = '75px', targets = list(1)),
                                                          list(className = 'dt-center', targets = '_all'),
-                                                         list(visible = FALSE, targets=c(0,11,12, 13, 14))),
+                                                         list(visible = FALSE, targets=c(0,11,12,13,14,15))),
                                        pageLength = 6,
                                        lengthMenu = c(6, 12, 18, 24, 30, 42, 60, 90))
                                      )
