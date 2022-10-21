@@ -1,3 +1,5 @@
+FOR PERSONAL/INTERNAL USE ONLY
+
 For helping to identify whales quickly in the Gulf Region
 
 Dependencies include library(shiny), library(DT), and library(shinydashboard)
