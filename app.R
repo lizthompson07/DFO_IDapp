@@ -1,7 +1,7 @@
 #################################
 ## NARW Head and Tails App     ##
 ## By: Liz Thompson            ##  
-## Last updated: Nov 16, 2022  ##
+## Last updated: Dec 7, 2022  ##
 #################################
 
 library(shinydashboard)
