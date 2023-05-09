@@ -1,12 +1,12 @@
 NEAQ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,Right Head Options,Sig Features,whaleimage,tailimage,ventraltail,lefthead,righthead
 1017,Batman,N,1,N,Y,C 2 pen R for,C 1 or 2 pen,C 1 pen,,1017-Batman.jpg,1017-Batman_T.jpg,no_tail.jpg,1017-Batman-left.jpg,1017-Batman-right.jpg
 1036,Peace,N,2,Y,Y,C 4 asym,C 2 pen,C 2 pen or C isl,,1036-Peace.jpg,no_tail.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
-1042,,Y,2,N,N,,B no isl,B 1 isl,,1042.jpg,1042_T.jpg,no_tail.jpg,1042-left.jpg,1042-right.jpg
-1042,,Y,2,N,N,,B no isl,B no isl,,1042b.jpg,1042_T.jpg,no_tail.jpg,1042-left.jpg,1042-right.jpg
+1042,,Y,2,N,N,,B 0 isl,B 1 isl,,1042.jpg,1042_T.jpg,no_tail.jpg,1042-left.jpg,1042-right.jpg
+1042,,Y,2,N,N,,B 0 isl,B 0 isl,,1042b.jpg,1042_T.jpg,no_tail.jpg,1042-left.jpg,1042-right.jpg
 1112,Javelin,N,2,Y,Y,C 2 pen R for,C 1 pen,C 0 or 1 pen,back - long line scar right,1112-Javelin.jpg,1112-Javelin_T.jpg,1112-Javelin_VT.jpg,1112-Javelin-left.jpg,1112-Javelin-right.jpg
-1112,Javelin,Y,2,Y,Y,,B no isl,B no isl,back - long line scar right,1112-Javelin.jpg,1112-Javelin_T.jpg,1112-Javelin_VT.jpg,1112-Javelin-left.jpg,1112-Javelin-right.jpg
-1142,Kleenex,Y,2,N,N,,B no isl,B no isl,,1142-Kleenex.jpg,1142-Kleenex_T.jpg,no_tail.jpg,1142-Kleenex-left.jpg,1142-Kleenex-right.jpg
-1149,Cream,N,2,Y,Y,,C no pen,C no pen,,1149-Cream.jpg,1149-Cream_T.jpg,no_tail.jpg,1149-Cream-left.jpg,1149-Cream-right.jpg
+1112,Javelin,Y,2,Y,Y,,B 0 isl,B 0 isl,back - long line scar right,1112-Javelin.jpg,1112-Javelin_T.jpg,1112-Javelin_VT.jpg,1112-Javelin-left.jpg,1112-Javelin-right.jpg
+1142,Kleenex,Y,2,N,N,,B 0 isl,B 0 isl,,1142-Kleenex.jpg,1142-Kleenex_T.jpg,no_tail.jpg,1142-Kleenex-left.jpg,1142-Kleenex-right.jpg
+1149,Cream,N,2,Y,Y,,C 0 pen,C 0 pen,,1149-Cream.jpg,1149-Cream_T.jpg,no_tail.jpg,1149-Cream-left.jpg,1149-Cream-right.jpg
 1208,Medusa,Y,2,Y,Y,,B long coam w isl,B long coam w isl,,1208-Medusa.jpg,1208-Medusa_T.jpg,no_tail.jpg,1208-Medusa-left.jpg,1208-Medusa-right.jpg
 1209,EL,Y,2,Y,Y,,B 2 isl,B 1 isl,,1209-EL.jpg,1209-EL_T.jpg,1209-EL_VT.jpg,1209-EL-left.jpg,1209-EL-right.jpg
 1227,Sliver,Y,2,N,N,,B long coam w isl,B long coam w isl,,1227-Sliver.jpg,1227-Sliver_T.jpg,no_tail.jpg,1227-Sliver-left.jpg,1227-Sliver-right.jpg
@@ -31,11 +31,11 @@ NEAQ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,
 1701,Aphrodite,Y,4,N,N,B 1 sym isl,B 1 isl,B 1 isl,pbh - scar behind left,1701-Aphrodite.jpg,1701-Aphrodite_T.jpg,1701-Aphrodite_VT.jpg,1701-Aphrodite-left.jpg,1701-Aphrodite-right.jpg
 1703,Wolf,Y,3,N,N,B 2 isl L for,B 1 isl,B 1 isl,,1703-Wolf.jpg,1703-Wolf_T.jpg,1703-Wolf_VT.jpg,1703-Wolf-left.jpg,1703-Wolf-right.jpg
 1703,Wolf,Y,3,N,N,B 2 isl L for,B 1 isl,B 1 isl,,1703b-Wolf.jpg,1703-Wolf_T.jpg,1703-Wolf_VT.jpg,1703-Wolf-left.jpg,1703-Wolf-right.jpg
-1708,,Y,2,N,N,,B 1 isl,B no isl,,1708.jpg,1708_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+1708,,Y,2,N,N,,B 1 isl,B 0 isl,,1708.jpg,1708_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
 1708,,Y,2,N,N,,B 1 isl,B 1 isl,,1708b.jpg,1708_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
 1720,Galileo,Y,1,N,N,B 2 isl R for,B long coam w isl,B long coam no isl,,1720-Galileo.jpg,1720-Galileo_T.jpg,1720-Galileo_VT.jpg,1720-Galileo-left.jpg,1720-Galileo-right.jpg
 1801,Sparky,Y,2,Y,Y,,B long coam w isl,B long coam w isl,,1801-Sparky.jpg,1801-Sparky_T.jpg,no_tail.jpg,1801-Sparky-left.jpg,1801-Sparky-right.jpg
-1812,War,Y,2,Y,Y,,B no isl,B no isl,,1812-War.jpg,1812-War_T.jpg,no_tail.jpg,1812-War-left.jpg,1812-War-right.jpg
+1812,War,Y,2,Y,Y,,B 0 isl,B 0 isl,,1812-War.jpg,1812-War_T.jpg,no_tail.jpg,1812-War-left.jpg,1812-War-right.jpg
 1817,Silt,N,2,N,N,,C 1 pen,C 2 pen,2022 mom,1817-Silt.jpg,1817-Silt_T.jpg,1817-Silt_VT.jpg,1817-Silt-left.jpg,1817-Silt-right.jpg
 1817,Silt,Y,2,N,N,,B long coam,B long coam,lip - small scar front right,1817-Silt_B.jpg,1817-Silt_T.jpg,1817-Silt_VT.jpg,1817-Silt-left.jpg,1817-Silt-right.jpg
 1820,Cello,N,2,Y,Y,C 1 sym,C 1 pen,C 1 pen,,1820-Cello.jpg,1820-Cello_T.jpg,no_tail.jpg,1820-Cello-left.jpg,1820-Cello-right.jpg
@@ -50,15 +50,15 @@ NEAQ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,
 2303,Jib,Y,1,N,N,B 2 isl L for,B 2 isl,B 1 isl,,2303-Jib.jpg,2303-Jib_T.jpg,2303-Jib_VT.jpg,2303-Jib-left.jpg,2303-Jib-right.jpg
 2340,Swan,N,2,Y,Y,C 2 pen R for,C 1 pen,C 1 or 2 pen,lip - small scar left front of callosity,2340-Swan.jpg,2340-Swan_T.jpg,2340-Swan_VT.jpg,2340-Swan-left.jpg,2340-Swan-right.jpg
 2427,Cicatrix,N,2,Y,Y,,C isl,C isl,,2427-Cicatrix.jpg,2427-Cicatrix_T.jpg,no_tail.jpg,2427-Cicatrix-left.jpg,2427-Cicatrix-right.jpg
-2503,Boomerang,Y,1,N,N,,B no isl,B no isl,,2503-Boomerang.jpg,2503-Boomerang_T.jpg,2503-Boomerang_VT.jpg,2503-Boomerang-left.jpg,2503-Boomerang-right.jpg
-2503,Boomerang,Y,4,N,N,,B no isl,B no isl,,2503-Boomerang.jpg,2503-Boomerang_T.jpg,2503-Boomerang_VT.jpg,2503-Boomerang-left.jpg,2503-Boomerang-right.jpg
+2503,Boomerang,Y,1,N,N,,B 0 isl,B 0 isl,,2503-Boomerang.jpg,2503-Boomerang_T.jpg,2503-Boomerang_VT.jpg,2503-Boomerang-left.jpg,2503-Boomerang-right.jpg
+2503,Boomerang,Y,4,N,N,,B 0 isl,B 0 isl,,2503-Boomerang.jpg,2503-Boomerang_T.jpg,2503-Boomerang_VT.jpg,2503-Boomerang-left.jpg,2503-Boomerang-right.jpg
 2510,Mitosis,Y,2,N,N,B 2 isl R for,B fused isl,B fused isl,,2510-Mitosis.jpg,2510-Mitosis_T.jpg,2510-Mitosis_VT.jpg,2510-Mitosis-left.jpg,2510-Mitosis-right.jpg
 2510,Mitosis,Y,4,N,N,B 2 isl R for,B fused isl,B fused isl,,2510-Mitosis.jpg,2510-Mitosis_T.jpg,2510-Mitosis_VT.jpg,2510-Mitosis-left.jpg,2510-Mitosis-right.jpg
 2541,Jedi,Y,2,N,N,B 2 isl L for,B 1 isl,B 1 isl,,2541-Jedi.jpg,2541-Jedi_T.jpg,no_tail.jpg,2541-Jedi-left.jpg,2541-Jedi-right.jpg
 2605,Smoke,N,4,N,N,C 1 sym,C 1 pen,C 1 pen,lip - line scar right,2605-Smoke.jpg,2605-Smoke_T.jpg,2605-Smoke_VT.jpg,2605-Smoke-left.jpg,2605-Smoke-right.jpg
-2642,Echo,Y,2,N,Y,,B 1 isl,B no isl,,2642-Echo.jpg,2642-Echo_T.jpg,2642-Echo_VT.jpg,2642-Echo-left.jpg,2642-Echo-right.jpg
-2681,Hyphen,Y,2,N,Y,,B no isl,B no isl,coam - scar,2681-Hyphen.jpg,2681-Hyphen_T.jpg,no_tail.jpg,2681-Hyphen-left.jpg,2681-Hyphen-right.jpg
-2681,Hyphen,Y,4,N,Y,,B no isl,B no isl,coam - scar,2681-Hyphen.jpg,2681-Hyphen_T.jpg,no_tail.jpg,2681-Hyphen-left.jpg,2681-Hyphen-right.jpg
+2642,Echo,Y,2,N,Y,,B 1 isl,B 0 isl,,2642-Echo.jpg,2642-Echo_T.jpg,2642-Echo_VT.jpg,2642-Echo-left.jpg,2642-Echo-right.jpg
+2681,Hyphen,Y,2,N,Y,,B 0 isl,B 0 isl,coam - scar,2681-Hyphen.jpg,2681-Hyphen_T.jpg,no_tail.jpg,2681-Hyphen-left.jpg,2681-Hyphen-right.jpg
+2681,Hyphen,Y,4,N,Y,,B 0 isl,B 0 isl,coam - scar,2681-Hyphen.jpg,2681-Hyphen_T.jpg,no_tail.jpg,2681-Hyphen-left.jpg,2681-Hyphen-right.jpg
 2705,Silver,Y,2,Y,N,B 1 sym isl,B 2 isl,B 1 isl,bh - scar,2705-Silver.jpg,2705-Silver_T.jpg,2705-Silver_VT.jpg,2705-Silver-left.jpg,2705-Silver-right.jpg
 2743,Ellipsis,Y,3,Y,Y,,B long coam w isl,B long coam no isl,,2743-Ellipsis.jpg,2743-Ellipsis_T.jpg,2743-Ellipsis_VT.jpg,2743-Ellipsis-left.jpg,2743-Ellipsis-right.jpg
 2750,Haley,N,2,N,N,,C 1 pen,C 1 or 2 pen,,2750-Haley.jpg,2750-Haley_T.jpg,2750-Haley_VT.jpg,2750-Haley-left.jpg,2750-Haley-right.jpg
@@ -92,7 +92,7 @@ NEAQ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,
 3310,,N,2,Y,Y,C 2 pen L for,C 1 or 2 pen,C 1 or 2 pen,,3310.jpg,3310_T.jpg,no_tail.jpg,3310-left.jpg,3310-right.jpg
 3312,,N,2,Y,Y,C 1 sym,C 1 pen,C 1 pen,,3312.jpg,3312_T.jpg,no_tail.jpg,3312-left.jpg,right-nohead.jpg
 3317,Frida,Y,1,Y,Y,,B long pen coam,B long pen coam,,3317-Frida.jpg,3317-Frida_T.jpg,no_tail.jpg,3317-Frida-left.jpg,3317-Frida-right.jpg
-3333,,Y,2,N,N,,B no isl,B 1 isl,back - scar small patch,3333.jpg,3333_T.jpg,3333_VT.jpg,3333-left.jpg,3333-right.jpg
+3333,,Y,2,N,N,,B 0 isl,B 1 isl,back - scar small patch,3333.jpg,3333_T.jpg,3333_VT.jpg,3333-left.jpg,3333-right.jpg
 3351,Dune,N,2,Y,Y,C any 4 asym,C 2 pen,C 2 pen,,3351-Dune.jpg,3351-Dune_T.jpg,3351-Dune_VT.jpg,3351-Dune-left.jpg,3351-Dune-right.jpg
 3380,Lemur,Y,1,Y,Y,,B 1 isl,B 2 isl or B fused isl,,3380-Lemur.jpg,3380-Lemur_T.jpg,3380-Lemur_VT.jpg,3380-Lemur-left.jpg,3380-Lemur-right.jpg
 3390,Uca,Y,2,Y,Y,B 1 sym isl,B 1 isl,B 1 isl,,3390-Uca.jpg,3390-Uca_T.jpg,3390-Uca_VT.jpg,3390-Uca-left.jpg,3390-Uca-right.jpg
@@ -100,7 +100,7 @@ NEAQ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,
 3420,Platypus,Y,2,Y,Y,,B long coam w isl,B long coam w isl,back - scar large patch,3420-Platypus.jpg,3420-Platypus_T.jpg,3420-Platypus_VT.jpg,3420-Platypus-left.jpg,3420-Platypus-right.jpg
 3420,Platypus,Y,2,Y,Y,,B long pen coam,B long pen coam,back - scar thin patch,3420-Platypus.jpg,3420-Platypus_T.jpg,3420-Platypus_VT.jpg,3420-Platypus-left.jpg,3420-Platypus-right.jpg
 3440,Cypress,N,1,Y,Y,,C isl,C isl,,3440-Cypress.jpg,3440-Cypress_T.jpg,no_tail.jpg,3440-Cypress-left.jpg,3440-Cypress-right.jpg
-3442,Armada,N,2,Y,Y,,C no pen,C no pen,back - lines 4 small,3442-Armada.jpg,3442-Armada_T.jpg,3442-Armada_VT.jpg,3442-Armada-left.jpg,3442-Armada-right.jpg
+3442,Armada,N,2,Y,Y,,C 0 pen,C 0 pen,back - lines 4 small,3442-Armada.jpg,3442-Armada_T.jpg,3442-Armada_VT.jpg,3442-Armada-left.jpg,3442-Armada-right.jpg
 3510,Twister,N,2,N,N,C 2 pen R for,C 1 pen,C 1 pen,,3510-Twister_left.jpg,3510-Twister_T.jpg,no_tail.jpg,3510-Twister-left.jpg,3510-Twister-right.jpg
 3510,Twister,N,2,N,N,C 2 pen R for,C 1 pen,C 1 pen,,3510-Twister_right.jpg,3510-Twister_T.jpg,no_tail.jpg,3510-Twister-left.jpg,3510-Twister-right.jpg
 3520,Millipede,Y,4,N,N,B 1 sym isl,B long coam w isl,B long coam w isl,2021 mom,3520-Millipede.jpg,3520-Millipede_T.jpg,3520-Millipede_VT.jpg,3520-Millipede-left.jpg,3520-Millipede-right.jpg
@@ -117,16 +117,16 @@ NEAQ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,
 3646,,Y,2,N,Y,B 2 isl L for,B 1 isl,B 1 isl,,3646.jpg,3646_T.jpg,3646_VT.jpg,3646-left.jpg,3646-right.jpg
 3651,Sandbar,N,2,Y,Y,,C 2 pen,C 2 pen,,3651-Sandbar.jpg,3651-Sandbar_T.jpg,no_tail.jpg,3651-Sandbar-left.jpg,3651-Sandbar-right.jpg
 3660,Sirius,N,3,Y,Y,C 1 sym,C 1 pen,C 1 pen,back - scar large patch,3660-Sirius.jpg,3660-Sirius_T.jpg,3660-Sirius_VT.jpg,3660-Sirius-left.jpg,3660-Sirius-right.jpg
-3680,Sea Dragon,Y,3,N,N,,B no isl,B no isl,callosity - scar,3680-SeaDragon.jpg,3680-SeaDragon_T.jpg,no_tail.jpg,3680-Sea Dragon-left.jpg,3680-Sea Dragon-right.jpg
+3680,Sea Dragon,Y,3,N,N,,B 0 isl,B 0 isl,callosity - scar,3680-SeaDragon.jpg,3680-SeaDragon_T.jpg,no_tail.jpg,3680-Sea Dragon-left.jpg,3680-Sea Dragon-right.jpg
 3693,,N,2,N,N,,C 2 pen,C 3 pen,,3693.jpg,3693_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
-3701,Eros,Y,2,N,N,B 2 isl L for,B no isl,B no isl,,3701-Eros.jpg,3701-Eros_T.jpg,3701-Eros_VT.jpg,3701-Eros-left.jpg,3701-Eros-right.jpg
+3701,Eros,Y,2,N,N,B 2 isl L for,B 0 isl,B 0 isl,,3701-Eros.jpg,3701-Eros_T.jpg,3701-Eros_VT.jpg,3701-Eros-left.jpg,3701-Eros-right.jpg
 3701,Eros,Y,2,N,N,B 2 isl L for,B 1 isl,B 1 isl,,3701-Eros.jpg,3701-Eros_T.jpg,3701-Eros_VT.jpg,3701-Eros-left.jpg,3701-Eros-right.jpg
 3720,Squilla,Y,2,N,N,,B long pen coam,B long pen coam,2021 mom,3720-Squilla.jpg,3720-Squilla_T.jpg,3720-Squilla_VT.jpg,3720-Squilla-left.jpg,3720-Squilla-right.jpg
 3730,Spoon,Y,2,N,N,,B long pen coam,B long pen coam,,3730-Spoon.jpg,3730-Spoon_T.jpg,no_tail.jpg,3730-Spoon-left.jpg,3730-Spoon-right.jpg
 3730,Spoon,N,2,N,N,,C 1 pen,C 1 pen,,3730-Spoon.jpg,3730-Spoon_T.jpg,no_tail.jpg,3730-Spoon-left.jpg,3730-Spoon-right.jpg
 3750,,Y,2,N,N,,B long coam w isl,B long coam w isl,,3750.jpg,3750_T.jpg,no_tail.jpg,3750-left.jpg,3750-right.jpg
 3810,,N,1,N,N,C 2 pen R for,C 1 pen,C 1 pen,,3810.jpg,3810_T.jpg,no_tail.jpg,3810-left.jpg,3810-right.jpg
-3812,Nimbus,Y,2,Y,Y,,B no isl,B 1 isl,,3812-Nimbus.jpg,3812-Nimbus_T.jpg,3812-Nimbus_VT.jpg,3812-Nimbus-left.jpg,right-nohead.jpg
+3812,Nimbus,Y,2,Y,Y,,B 0 isl,B 1 isl,,3812-Nimbus.jpg,3812-Nimbus_T.jpg,3812-Nimbus_VT.jpg,3812-Nimbus-left.jpg,right-nohead.jpg
 3823,Sundog,Y,1,N,N,,B fused isl,B long coam w isl,callosity - scar,3823-Sundog.jpg,3823-Sundog_T.jpg,3823-Sundog_VT.jpg,3823-Sundog-left.jpg,3823-Sundog-right.jpg
 3823,Sundog,Y,2,N,N,,B fused isl,B long coam w isl,callosity - scar,3823-Sundog.jpg,3823-Sundog_T.jpg,3823-Sundog_VT.jpg,3823-Sundog-left.jpg,3823-Sundog-right.jpg
 3843,,N,2,N,N,C 2 pen L for,C 0 or 1 pen,C 0 or 1 pen,,3843.jpg,3843_T.jpg,no_tail.jpg,3843-left.jpg,3843-right.jpg
@@ -134,15 +134,15 @@ NEAQ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,
 3860,Bocce,Y,2,N,N,B any 4 asym,B 2 isl,B 2 isl,2021 mom,3860-Bocce.jpg,3860-Bocce_T.jpg,3860-Bocce_VT.jpg,3860-Bocce-left.jpg,3860-Bocce-right.jpg
 3860,Bocce,Y,4,N,N,B any 4 asym,B 2 isl,B 2 isl,2021 mom,3860-Bocce.jpg,3860-Bocce_T.jpg,3860-Bocce_VT.jpg,3860-Bocce-left.jpg,3860-Bocce-right.jpg
 3890,Babushka,Y,3,N,N,B 2 isl R for,B fused isl,B 1 isl,,3890-Babushka.jpg,3890-Babushka_T.jpg,3890-Babushka_VT.jpg,3890-Babushka-left.jpg,3890-Babushka-right.jpg
-3892,,Y,2,N,N,,B no isl,B no isl,,3892.jpg,3892_T.jpg,no_tail.jpg,3892-left.jpg,3892-right.jpg
+3892,,Y,2,N,N,,B 0 isl,B 0 isl,,3892.jpg,3892_T.jpg,no_tail.jpg,3892-left.jpg,3892-right.jpg
 3904,Champagne,Y,2,N,N,B any 4 asym,B 2 isl,B 2 isl,2021 mom,3904-Champagne.jpg,3904-Champagne_T.jpg,3904-Champagne_VT.jpg,3904-Champagne-left.jpg,3904-Champagne-right.jpg
 3904,Champagne,Y,2,N,N,B any 4 asym,B 2 isl,B fused isl,2021 mom,3904-Champagne.jpg,3904-Champagne_T.jpg,3904-Champagne_VT.jpg,3904-Champagne-left.jpg,3904-Champagne-right.jpg
 3912,Sickle,Y,2,Y,Y,B 2 isl L for,B 1 isl,B 1 isl,coam - scar beside right,3912-Sickle.jpg,3912-Sickle_T.jpg,no_tail.jpg,3912-Sickle-left.jpg,3912-Sickle-right.jpg
 3940,Koala,Y,2,N,N,B any 4 asym,B 2 isl,B 2 isl,callosity - scar,3940-Koala.jpg,3940-Koala_T.jpg,3940-Koala_VT.jpg,3940-Koala-left.jpg,3940-Koala-right.jpg
 3942,Warrior,Y,2,N,N,B 2 isl R for,B 1 isl,B 1 isl,coam - scar; 2021 mom,3942-Warrior.jpg,3942-Warrior_T.jpg,3942-Warrior_VT.jpg,3942-Warrior-left.jpg,3942-Warrior-right.jpg
 3946,,N,2,Y,Y,C any 4 asym,C 2 pen,C 2 pen,,3946.jpg,3946_T.jpg,3946_VT.jpg,3946-left.jpg,3946-right.jpg
-3960,,Y,2,N,N,,B no isl,B no isl,,3960.jpg,3960_T.jpg,3960_VT.jpg,3960-left.jpg,3960-right.jpg
-3981,,N,2,Y,Y,,C no pen,C no pen,,3981.jpg,3981_T.jpg,no_tail.jpg,3981-left.jpg,3981-right.jpg
+3960,,Y,2,N,N,,B 0 isl,B 0 isl,,3960.jpg,3960_T.jpg,3960_VT.jpg,3960-left.jpg,3960-right.jpg
+3981,,N,2,Y,Y,,C 0 pen,C 0 pen,,3981.jpg,3981_T.jpg,no_tail.jpg,3981-left.jpg,3981-right.jpg
 3989,,N,2,N,Y,C 1 sym,C 1 pen,C 1 pen,,3989.jpg,3989_T.jpg,3989_VT.jpg,3989-left.jpg,3989-right.jpg
 3992,,N,2,N,N,,C 1 pen,C isl,,3992.jpg,3992_T.jpg,no_tail.jpg,left-nohead.jpg,3992-right.jpg
 3992,,Y,2,N,N,,B long pen coam,B long coam w isl,,3992.jpg,3992_T.jpg,no_tail.jpg,left-nohead.jpg,3992-right.jpg
@@ -152,13 +152,13 @@ NEAQ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,
 4092,Flare,Y,3,N,N,B 2 isl L for,B 1 isl,B 1 isl,callosity - scar,4092-Flare.jpg,4092-Flare_T.jpg,4092-Flare_VT.jpg,4092-Flare-left.jpg,4092-Flare-right.jpg
 4094,Mayport,Y,2,Y,Y,,B long pen coam,B long pen coam,back - scar large patch,4094-Mayport.jpg,4094-Mayport_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
 4123,,N,2,N,Y,C 2 pen L for,C 1 pen,C 1 pen,,4123.jpg,4123_T.jpg,no_tail.jpg,4123-left.jpg,4123-right.jpg
-4129,,Y,2,N,Y,,B no isl,B 1 isl,,4129.jpg,4129_T.jpg,no_tail.jpg,4129-left.jpg,4129-right.jpg
+4129,,Y,2,N,Y,,B 0 isl,B 1 isl,,4129.jpg,4129_T.jpg,no_tail.jpg,4129-left.jpg,4129-right.jpg
 4130,,N,2,N,N,,C 1 pen,C 1 pen,,4130.jpg,4130_T.jpg,no_tail.jpg,4130-left.jpg,4130-right.jpg
 4140,Casper,Y,1,N,N,B 2 isl L for,B 2 isl,B 1 isl,back - line scar,4140-Casper.jpg,4140-Casper_T.jpg,4140-Casper_VT.jpg,4140-Casper-left.jpg,4140-Casper-right.jpg
 4140,Casper,Y,2,N,N,B 2 isl L for,B 2 isl,B 1 isl,back - line scar,4140-Casper.jpg,4140-Casper_T.jpg,4140-Casper_VT.jpg,4140-Casper-left.jpg,4140-Casper-right.jpg
 4180,Dyad,Y,2,N,N,,B long coam w isl,B long coam w isl,2022 mom,4180-Dyad.jpg,4180-Dyad_T.jpg,4180-Dyad_VT.jpg,4180-Dyad-left.jpg,4180-Dyad-right.jpg
 4190,Curlew,Y,2,N,N,B 1 sym isl,B 1 isl,B 1 isl,back - line scar,4190-Curlew.jpg,4190-Curlew_T.jpg,4190-Curlew_VT.jpg,4190-Curlew-left.jpg,4190-Curlew-right.jpg
-4310,,Y,2,Y,Y,,B no isl,B no isl,,4310.jpg,4310_T.jpg,4310_VT.jpg,4310-left.jpg,4310-right.jpg
+4310,,Y,2,Y,Y,,B 0 isl,B 0 isl,,4310.jpg,4310_T.jpg,4310_VT.jpg,4310-left.jpg,4310-right.jpg
 4340,Pilgrim,N,2,N,N,,C 2 pen,C 2 pen,,4340b-Pilgrim.jpg,4340-Pilgrim_T.jpg,no_tail.jpg,4340-Pilgrim-left.jpg,4340-Pilgrim-right.jpg
 4340,Pilgrim,Y,2,N,N,,B long pen coam,B long pen coam,,4340-Pilgrim.jpg,4340-Pilgrim_T.jpg,no_tail.jpg,4340-Pilgrim-left.jpg,4340-Pilgrim-right.jpg
 4423,Nebula,N,2,Y,Y,C 2 pen L for,C 1 pen,C 1 pen,,4423-Nebula.jpg,4423-Nebula_T.jpg,4423-Nebula_VT.jpg,4423-Nebula-left.jpg,4423-Nebula-right.jpg
@@ -169,7 +169,7 @@ NEAQ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,
 4457,Seamount,Y,2,Y,Y,,B long pen coam,B long pen coam,,4457b-Seamount.jpg,4457-Seamount_T.jpg,4457-Seamount_VT.jpg,4457-Seamount-left.jpg,4457-Seamount-right.jpg
 4501,,N,2,Y,Y,C 2 pen L for,C 1 pen,C 1 pen,callosity - dot scar right,4501.jpg,4501_T.jpg,4501_VT.jpg,4501-left.jpg,4501-right.jpg
 4510,Shelagh,Y,2,N,N,B 1 sym isl,B 1 isl,B 2 isl,back - scar small patch,4510-Shelagh.jpg,4510-Shelagh_T.jpg,4510-Shelagh_VT.jpg,4510-Shelagh-left.jpg,4510-Shelagh-right.jpg
-4523,Beaker,Y,4,N,N,,B no isl,B no isl,,4523-Beaker.jpg,4523-Beaker_T.jpg,no_tail.jpg,4523-Beaker-left.jpg,4523-Beaker-right.jpg
+4523,Beaker,Y,4,N,N,,B 0 isl,B 0 isl,,4523-Beaker.jpg,4523-Beaker_T.jpg,no_tail.jpg,4523-Beaker-left.jpg,4523-Beaker-right.jpg
 4523,Beaker,Y,4,N,N,B 1 sym isl,B 1 isl,B 1 isl,,4523-Beaker.jpg,4523-Beaker_T.jpg,no_tail.jpg,4523-Beaker-left.jpg,4523-Beaker-right.jpg
 4530,,Y,2,N,N,,B 2 isl,B 2 isl,,4530.jpg,4530_T.jpg,no_tail.jpg,4530-left.jpg,4530-right.jpg
 4539,,Y,2,N,Y,,B long pen coam,B long pen coam,,4539.jpg,4539_T.jpg,4539_VT.jpg,4539-left.jpg,4539-right.jpg
@@ -193,17 +193,25 @@ NEAQ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,
 4917,2019CalfOf3317,Y,3,,,B 2 isl R for,B 1 isl,B 1 isl,,4917.jpg,4917_T.jpg,no_tail.jpg,4917-left.jpg,4917-right.jpg
 4980,2019CalfOf4180,N,2,,,C 2 pen R for,C 1 pen,C 1 pen,,4980.jpg,4980_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
 4991,2019CalfOf2791,N,2,,,C 2 pen R for,C 1 pen,C 1 pen,,4991.jpg,4991_T.jpg,no_tail.jpg,4991-left.jpg,4991-right.jpg
-5001,2020CalfOf3101,N,1,N,N,,C 2 pen,C 2 pen,back - scar small axe shape,_2020CalfOf3101.jpg,_2020CalfOf3101_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
-5042,2020CalfOf2642,Y,,,,,,,back - line scar,_2020CalfOf2642.jpg,_2020CalfOf2642_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
-5046,2020CalfOf3546,N,,,,,,,,_2020CalfOf3546.jpg,_2020CalfOf3546_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+5001,2020CalfOf3101,N,1,N,N,,C 2 pen,C 2 pen,back - scar small axe shape,5001.jpg,5001_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+5023,2020CalfOf2223,N,2,N,N,,C 1 pen,C 2 pen,pbh - small diagonal line behind,5023.jpg,5023_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+5042,2020CalfOf2642,Y,2,,,B 2 isl L for,B 1 isl,B 1 isl,back - line scar,5042.jpg,5042_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+5046,2020CalfOf3546,N,2,Y,Y,,C 0 pen,C 0 pen,,5046.jpg,5046.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
 ,G073,N,2,,,C 1 sym,C 1 pen,C 1 pen,fluke - blunt tips,G073.jpg,G073_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
-,2021CalfOf3520,Y,,,,,,,2021 calf,_2021CalfOf3520.jpg,_2021CalfOf3520_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
-,2021CalfOf3942,N,,,,,,,2021 calf,_2021CalfOf3942.jpg,_2021CalfOf3942_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
-,2021CalfOf3020,Y,,,,,,,2021 calf,_2021CalfOf3020.jpg,_2021CalfOf3020_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
-,2021CalfOf3720,Y,,,,,,,2021 calf,_2021CalfOf3720.jpg,_2021CalfOf3720_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
-,2021CalfOf3860,Y,,,,,,,2021 calf,_2021CalfOf3860.jpg,_2021CalfOf3860_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
-,2021CalfOf3904,Y,,,,,,,2021 calf,_2021CalfOf3904.jpg,_2021CalfOf3904_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
-,2021CalfOf4040,Y,,,,,,,2021 calf,_2021CalfOf4040.jpg,_2021CalfOf4040_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
-,2021CalfOf3232,Y,,,,,,,2021 calf,_2021CalfOf3232.jpg,no_tail.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
-,2022CalfOf1245,Y,,,,,,,2022 calf,_2022CalfOf1245.jpg,no_tail.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
-,2022CalfOf4180,Y,2,,,,B no isl,B no isl,2022 calf,_2022CalfOf4180.jpg,_2022CalfOf4180_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+,2021CalfOf3520,Y,2,,,,B 0 isl,B 0 isl,2021 calf,_2021CalfOf3520.jpg,_2021CalfOf3520_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+,2021CalfOf3942,N,2,,,,C 2 pen,C 1 pen,2021 calf,_2021CalfOf3942.jpg,_2021CalfOf3942_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+,2021CalfOf3020,Y,2,,,,B long pen coam,B long pen coam,2021 calf,_2021CalfOf3020.jpg,_2021CalfOf3020_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+,2021CalfOf3720,Y,2,,,,B long pen coam,B long pen coam,2021 calf,_2021CalfOf3720.jpg,_2021CalfOf3720_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+,2021CalfOf3860,Y,4,,,B 2 isl R for,B 1 isl,B 1 isl,2021 calf,_2021CalfOf3860.jpg,_2021CalfOf3860_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+,2021CalfOf3904,Y,2,,,,B 0 isl,B 0 isl,2021 calf,_2021CalfOf3904.jpg,_2021CalfOf3904_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+,2021CalfOf4040,Y,2,,,,B 0 isl,B 0 isl,2021 calf,_2021CalfOf4040.jpg,_2021CalfOf4040_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+,2021CalfOf3232,Y,,,,,B 0 isl,B 0 isl,2021 calf,_2021CalfOf3232.jpg,_2021CalfOf3232_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+,2022CalfOf1245,Y,2,,,B 1 sym isl,B 1 isl,B 1 isl,2022 calf,_2022CalfOf1245.jpg,no_tail.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+,2022CalfOf4180,Y,4,,,,B 0 isl,B 1 isl,2022 calf,_2022CalfOf4180.jpg,_2022CalfOf4180_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+,2022CalfOf1817,Y,,,,,B 0 isl,B 0 isl,2022 calf,_2022CalfOf1817.jpg,_2022CalfOf1817_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+,2022CalfOf2040,N,4,,,,C 2 pen,C 2 pen,2022 calf,_2022CalfOf2040.jpg,no_tail.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+,2022CalfOf2753,N,2,,,C 1 sym,C 1 pen,C 1 pen,2022 calf,_2022CalfOf2753.jpg,no_tail.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+,2022CalfOf3157,N,2,,,C 1 sym,C 1 pen,C 1 pen,2022 calf,_2022CalfOf3157.jpg,_2022CalfOf3157_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+,2022CalfOf3560,Y,,,,,,,2022 calf,_2022CalfOf3560.jpg,no_tail.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+,2023CalfOf2605,Y,,,,,,,2023 calf,_2023CalfOf2605.jpg,no_tail.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+,2023CalfOf4340,Y,,,,,,,2023 calf,_2023CalfOf4340.jpg,no_tail.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
