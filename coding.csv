@@ -101,6 +101,7 @@ NEAQ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,
 3420,Platypus,Y,2,Y,Y,,B long pen coam,B long pen coam,back - scar thin patch,3420-Platypus.jpg,3420-Platypus_T.jpg,3420-Platypus_VT.jpg,3420-Platypus-left.jpg,3420-Platypus-right.jpg
 3440,Cypress,N,1,Y,Y,,C isl,C isl,,3440-Cypress.jpg,3440-Cypress_T.jpg,no_tail.jpg,3440-Cypress-left.jpg,3440-Cypress-right.jpg
 3442,Armada,N,2,Y,Y,,C 0 pen,C 0 pen,back - lines 4 small,3442-Armada.jpg,3442-Armada_T.jpg,3442-Armada_VT.jpg,3442-Armada-left.jpg,3442-Armada-right.jpg
+3503,Caterpillar,Y,1,N,Y,B 2 isl R for,B 1 isl,B 1 isl,back - prop scar and big open scar patch left flank,3503-Caterpillar.jpg,3503-Caterpillar_T.jpg,3503-Caterpillar_VT.jpg,3503-Caterpillar-left.jpg,3503-Caterpillar-right.jpg
 3510,Twister,N,2,N,N,C 2 pen R for,C 1 pen,C 1 pen,,3510-Twister_left.jpg,3510-Twister_T.jpg,no_tail.jpg,3510-Twister-left.jpg,3510-Twister-right.jpg
 3510,Twister,N,2,N,N,C 2 pen R for,C 1 pen,C 1 pen,,3510-Twister_right.jpg,3510-Twister_T.jpg,no_tail.jpg,3510-Twister-left.jpg,3510-Twister-right.jpg
 3520,Millipede,Y,4,N,N,B 1 sym isl,B long coam w isl,B long coam w isl,2021 mom,3520-Millipede.jpg,3520-Millipede_T.jpg,3520-Millipede_VT.jpg,3520-Millipede-left.jpg,3520-Millipede-right.jpg
@@ -196,7 +197,7 @@ NEAQ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,
 5001,2020CalfOf3101,N,1,N,N,,C 2 pen,C 2 pen,back - scar small axe shape,5001.jpg,5001_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
 5023,2020CalfOf2223,N,2,N,N,,C 2 pen,C 1 pen,pbh - small diagonal line behind,5023.jpg,5023_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
 5042,2020CalfOf2642,Y,2,,,B 2 isl L for,B 1 isl,B 1 isl,back - line scar,5042.jpg,5042_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
-5046,2020CalfOf3546,N,2,Y,Y,,C 0 pen,C 0 pen,,5046.jpg,5046.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+5046,2020CalfOf3546,N,2,Y,Y,,C 0 pen,C 0 pen,,5046.jpg,5046_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
 ,G073,N,2,,,C 1 sym,C 1 pen,C 1 pen,fluke - blunt tips,G073.jpg,G073_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
 ,2021CalfOf3520,Y,2,,,,B 0 isl,B 0 isl,2021 calf,_2021CalfOf3520.jpg,_2021CalfOf3520_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
 ,2021CalfOf3942,N,2,,,,C 2 pen,C 1 pen,2021 calf,_2021CalfOf3942.jpg,_2021CalfOf3942_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
