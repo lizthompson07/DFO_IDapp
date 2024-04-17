@@ -9,7 +9,7 @@ NEAQ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,
 1149,Cream,N,2,Y,Y,,C 0 pen,C 0 pen,,1149-Cream.jpg,1149-Cream_T.jpg,no_tail.jpg,1149-Cream-left.jpg,1149-Cream-right.jpg
 1208,Medusa,Y,2,Y,Y,,B long coam w isl,B long coam w isl,2023 mom,1208-Medusa.jpg,1208-Medusa_T.jpg,no_tail.jpg,1208-Medusa-left.jpg,1208-Medusa-right.jpg
 1209,EL,Y,2,Y,Y,,B 2 isl,B 1 isl,,1209-EL.jpg,1209-EL_T.jpg,1209-EL_VT.jpg,1209-EL-left.jpg,1209-EL-right.jpg
-1227,Sliver,Y,2,N,N,,B long coam w isl,B long coam w isl,,1227-Sliver.jpg,1227-Sliver_T.jpg,no_tail.jpg,1227-Sliver-left.jpg,1227-Sliver-right.jpg
+1227,Sliver,Y,2,N,N,,B long pen coam,B long pen coam,,1227-Sliver.jpg,1227-Sliver_T.jpg,no_tail.jpg,1227-Sliver-left.jpg,1227-Sliver-right.jpg
 1245,Slalom,N,1,Y,Y,,C isl,C isl,2022 mom,1245-Slalom.jpg,1245-Slalom_T.jpg,1245-Slalom_VT.jpg,1245-Slalom-left.jpg,1245-Slalom-right.jpg
 1249,Lacrosse,N,2,Y,Y,,C 1 pen,C 2 pen,,1249-Lacrosse.jpg,1249-Lacrosse_T.jpg,no_tail.jpg,1249-Lacrosse-left.jpg,1249-Lacrosse-right.jpg
 1271,Dropcloth,Y,2,Y,Y,,B long coam,B long coam,back - long line scar right,1271-Dropcloth.jpg,1271-Dropcloth_T.jpg,no_tail.jpg,1271-Dropcloth-left.jpg,1271-Dropcloth-right.jpg
@@ -201,24 +201,26 @@ NEAQ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,
 5023,2020CalfOf2223,N,2,N,N,,C 2 pen,C 1 pen,pbh - small diagonal line behind,5023.jpg,5023_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
 5042,2020CalfOf2642,Y,2,,,B 2 isl L for,B 1 isl,B 1 isl,,5042.jpg,5042_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
 5046,Jagger,N,2,Y,Y,,C 0 pen,C 0 pen,,5046-Jagger.jpg,5046-Jagger_T.jpg,5046_VT.jpg,left-nohead.jpg,right-nohead.jpg
-5120,2021CalfOf3720,Y,2,,,,B long pen coam,B long pen coam,2021 calf,5120.jpg,5120_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+5104,2021CalfOf3904,Y,2,,,,B 0 isl,B 0 isl,2021 calf,5104.jpg,5104_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+5132,2021CalfOf3232,Y,,,,,B 0 isl,B 0 isl,2021 calf,5132.jpg,5132_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
 5140,2021CalfOf4040,Y,2,,,,B 0 isl,B 0 isl,2021 calf,5140.jpg,5140_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+5142,2021CalfOf3942,N,2,,,,C 2 pen,C 1 pen,2021 calf,5142.jpg,5142_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+5160,2021CalfOf3860,Y,4,,,B 2 isl R for,B 1 isl,B 1 isl,2021 calf,5160.jpg,5160_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+5191,2021CalfOf3020,Y,2,,,,B long pen coam,B long pen coam,2021 calf,5191.jpg,5191_T.jpg,5191_VT.jpg,left-nohead.jpg,right-nohead.jpg
+5192,2021CalfOf3520,Y,2,,,,B 0 isl,B 0 isl,2021 calf,5192.jpg,5192_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
 ,G073,N,2,,,C 1 sym,C 1 pen,C 1 pen,fluke - blunt tips,G073.jpg,G073_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
-,2021CalfOf3520,Y,2,,,,B 0 isl,B 0 isl,2021 calf,_2021CalfOf3520.jpg,_2021CalfOf3520_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
-,2021CalfOf3942,N,2,,,,C 2 pen,C 1 pen,2021 calf,_2021CalfOf3942.jpg,_2021CalfOf3942_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
-,2021CalfOf3020,Y,2,,,,B long pen coam,B long pen coam,2021 calf,_2021CalfOf3020.jpg,_2021CalfOf3020_T.jpg,_2021CalfOf3020_VT.jpg,left-nohead.jpg,right-nohead.jpg
-,2021CalfOf3860,Y,4,,,B 2 isl R for,B 1 isl,B 1 isl,2021 calf,_2021CalfOf3860.jpg,_2021CalfOf3860_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
-,2021CalfOf3904,Y,2,,,,B 0 isl,B 0 isl,2021 calf,_2021CalfOf3904.jpg,_2021CalfOf3904_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
-,2021CalfOf3232,Y,,,,,B 0 isl,B 0 isl,2021 calf,_2021CalfOf3232.jpg,_2021CalfOf3232_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
 ,2022CalfOf1245,Y,2,,,B 1 sym isl,B 1 isl,B 1 isl,2022 calf,_2022CalfOf1245.jpg,no_tail.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
-,2022CalfOf4180,Y,4,,,,B 0 isl,B 1 isl,2022 calf,_2022CalfOf4180.jpg,_2022CalfOf4180_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
 ,2022CalfOf1817,Y,,,,,B 0 isl,B 0 isl,2022 calf,_2022CalfOf1817.jpg,_2022CalfOf1817_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
 ,2022CalfOf2040,N,4,,,,C 2 pen,C 2 pen,2022 calf,_2022CalfOf2040.jpg,no_tail.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
 ,2022CalfOf2753,N,2,,,C 1 sym,C 1 pen,C 1 pen,2022 calf,_2022CalfOf2753.jpg,no_tail.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+,2022CalfOf4180,Y,4,,,,B 0 isl,B 1 isl,2022 calf,_2022CalfOf4180.jpg,_2022CalfOf4180_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
 ,2022CalfOf3157,N,2,,,C 1 sym,C 1 pen,C 1 pen,2022 calf,_2022CalfOf3157.jpg,_2022CalfOf3157_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
 ,2022CalfOf3560,Y,,,,,,,2022 calf,_2022CalfOf3560.jpg,no_tail.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+,2023CalfOf1208,Y,,,,,,,2023 calf,_2023CalfOf1208.jpg,no_tail.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+,2023CalfOf1701,N,,,,,,,2023 calf,_2023CalfOf1701.jpg,_2023CalfOf1701_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+,2023CalfOf1812,Y,,,,,,,2023 calf,_2023CalfOf1812.jpg,no_tail.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
 ,2023CalfOf2605,Y,,,,,,,2023 calf,_2023CalfOf2605.jpg,no_tail.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
 ,2023CalfOf4340,Y,,,,,,,2023 calf,_2023CalfOf4340.jpg,_2023CalfOf4340_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
-,2023CalfOf1812,Y,,,,,,,2023 calf,_2023CalfOf1812.jpg,no_tail.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
-,2023CalfOf1701,N,,,,,,,2023 calf,_2023CalfOf1701.jpg,_2023CalfOf1701_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
-,2023CalfOf1208,Y,,,,,,,2023 calf,_2023CalfOf1208.jpg,no_tail.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+,2024CalfOf1703,,,,,,,,2024 calf,left-nohead.jpg,no_tail.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+,2024CalfOf2791,,,,,,,,2024 calf,left-nohead.jpg,no_tail.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+,2024CalfOf3546,,,,,,,,2024 calf,_2024CalfOf3546.jpg,no_tail.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
