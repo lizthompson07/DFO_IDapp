@@ -29,8 +29,8 @@ NEAQ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,
 1616,Owl,N,1,N,N,,C 2 pen or dbl,C 2 pen or C isl,,1616-Owl.jpg,1616-Owl_T.jpg,1616-Owl_VT.jpg,1616-Owl-left.jpg,1616-Owl-right.jpg
 1628,Peregrine,N,2,Y,Y,C 2 pen R for,C 1 pen,C 1 pen,,1628-Peregrine.jpg,1628-Peregrine_T.jpg,no_tail.jpg,1628-Peregrine-left.jpg,1628-Peregrine-right.jpg
 1701,Aphrodite,Y,4,N,N,B 1 sym isl,B 1 isl,B 1 isl,2023 mom,1701-Aphrodite.jpg,1701-Aphrodite_T.jpg,1701-Aphrodite_VT.jpg,1701-Aphrodite-left.jpg,1701-Aphrodite-right.jpg
-1703,Wolf,Y,3,N,N,B 2 isl L for,B 1 isl,B 1 isl,,1703-Wolf.jpg,1703-Wolf_T.jpg,1703-Wolf_VT.jpg,1703-Wolf-left.jpg,1703-Wolf-right.jpg
-1703,Wolf,Y,3,N,N,B 2 isl L for,B 1 isl,B 1 isl,,1703b-Wolf.jpg,1703-Wolf_T.jpg,1703-Wolf_VT.jpg,1703-Wolf-left.jpg,1703-Wolf-right.jpg
+1703,Wolf,Y,3,N,N,B 2 isl L for,B 1 isl,B 1 isl,2024 mom,1703-Wolf.jpg,1703-Wolf_T.jpg,1703-Wolf_VT.jpg,1703-Wolf-left.jpg,1703-Wolf-right.jpg
+1703,Wolf,Y,3,N,N,B 2 isl L for,B 1 isl,B 1 isl,2024 mom,1703b-Wolf.jpg,1703-Wolf_T.jpg,1703-Wolf_VT.jpg,1703-Wolf-left.jpg,1703-Wolf-right.jpg
 1708,,Y,2,N,N,,B 1 isl,B 0 isl,,1708.jpg,1708_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
 1708,,Y,2,N,N,,B 1 isl,B 1 isl,,1708b.jpg,1708_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
 1720,Galileo,Y,1,N,N,B 2 isl R for,B long coam w isl,B long coam no isl,,1720-Galileo.jpg,1720-Galileo_T.jpg,1720-Galileo_VT.jpg,1720-Galileo-left.jpg,1720-Galileo-right.jpg
@@ -64,7 +64,7 @@ NEAQ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,
 2750,Haley,N,2,N,N,,C 1 pen,C 1 or 2 pen,,2750-Haley.jpg,2750-Haley_T.jpg,2750-Haley_VT.jpg,2750-Haley-left.jpg,2750-Haley-right.jpg
 2753,Arpeggio,Y,2,Y,Y,,B long pen coam,B long pen coam,2022 mom,2753-Arpeggio.jpg,2753-Arpeggio_T.jpg,2753-Arpeggio_VT.jpg,2753-Arpeggio-left.jpg,2753-Arpeggio-right.jpg
 2760,,Y,2,N,Y,B 1 sym isl,B 1 isl,B 1 isl,,2760.jpg,2760_T.jpg,2760_VT.jpg,2760-left.jpg,2760-right.jpg
-2791,Fenway,N,2,Y,Y,,C 1 or 2 pen,C 1 pen,bh - scar,2791-Fenway.jpg,2791-Fenway_T.jpg,2791-Fenway_VT.jpg,left-nohead.jpg,2791-Fenway-right.jpg
+2791,Fenway,N,2,Y,Y,,C 1 or 2 pen,C 1 pen,2024 mom,2791-Fenway.jpg,2791-Fenway_T.jpg,2791-Fenway_VT.jpg,left-nohead.jpg,2791-Fenway-right.jpg
 2904,Vega,N,2,Y,Y,C 2 pen L for,C 1 pen,C 1 pen,face - 3 dots left,2904-Vega_overhead.jpg,2904-Vega_T.jpg,no_tail.jpg,2904-Vega-left.jpg,2904-Vega-right.jpg
 2904,Vega,N,2,Y,Y,C 1 sym,C 1 pen,C 1 pen,face - 3 dots left,2904-Vega_left.jpg,2904-Vega_T.jpg,no_tail.jpg,2904-Vega-left.jpg,2904-Vega-right.jpg
 2910,Surf,N,2,N,Y,C 1 sym,C 1 pen,C 1 pen,,2910-Surf.jpg,2910-Surf_T.jpg,2910-Surf_VT.jpg,2910-Surf-left.jpg,2910-Surf-right.jpg
@@ -108,7 +108,7 @@ NEAQ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,
 3520,Millipede,Y,4,N,N,B 1 sym isl,B long coam w isl,B long coam w isl,2021 mom,3520-Millipede.jpg,3520-Millipede_T.jpg,3520-Millipede_VT.jpg,3520-Millipede-left.jpg,3520-Millipede-right.jpg
 3520,Millipede,Y,4,N,N,,B long pen coam,B long pen coam,2021 mom,3520-Millipede.jpg,3520-Millipede_T.jpg,3520-Millipede_VT.jpg,3520-Millipede-left.jpg,3520-Millipede-right.jpg
 3530,Ruffian,Y,2,N,N,B 2 isl R for,B long coam w isl,B long coam w isl,scars everywhere,3530-Ruffian.jpg,3530-Ruffian_T.jpg,3530-Ruffian_VT.jpg,3530-Ruffian-left.jpg,3530-Ruffian-right.jpg
-3546,Halo,N,4,N,Y,,C 1 pen,C 2 pen,,3546-Halo.jpg,3546-Halo_T.jpg,3546-Halo_VT.jpg,3546-Halo-left.jpg,3546-Halo-right.jpg
+3546,Halo,N,4,N,Y,,C 1 pen,C 2 pen,2024 mom,3546-Halo.jpg,3546-Halo_T.jpg,3546-Halo_VT.jpg,3546-Halo-left.jpg,3546-Halo-right.jpg
 3550,,N,2,Y,Y,,C 2 pen,C 1 pen,,3550.jpg,3550_T.jpg,no_tail.jpg,3550-left.jpg,3550-right.jpg
 3560,Snow Cone,Y,2,N,N,B 2 isl L for,B 1 isl,B 1 isl,coam - scar,3560-Snow Cone.jpg,3560-Snow Cone_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
 3560,Snow Cone,Y,2,N,N,,B long coam w isl,B long coam w isl,2022 mom,3560-Snow Cone2.jpg,3560-Snow Cone_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
@@ -225,4 +225,4 @@ NEAQ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,
 ,2023CalfOf4340,Y,,,,,,,2023 calf,_2023CalfOf4340.jpg,_2023CalfOf4340_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
 ,2024CalfOf1703,,,,,,,,2024 calf,left-nohead.jpg,no_tail.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
 ,2024CalfOf2791,,,,,,,,2024 calf,left-nohead.jpg,no_tail.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
-,2024CalfOf3546,,,,,,,,2024 calf,_2024CalfOf3546.jpg,no_tail.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+,2024CalfOf3546,,,,,,,,2024 calf,_2024CalfOf3546.jpg,no_tail.jpg,no_tail.jpg,left-nohead.jpg,_2024CalfOf3546-right.jpg
