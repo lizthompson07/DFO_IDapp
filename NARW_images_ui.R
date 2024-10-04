@@ -28,6 +28,15 @@ fluidPage(
   titlePanel("Search for Heads and Tails"),
   setBackgroundColor("skyblue"),
  
+  
+  # Add the radio button selection with inline styling
+  tags$div(
+  radioButtons("region_choice", "Select a region:",
+               choices = list("GSL" = "gslchoice", "BoF" = "bofchoice"),
+               selected = "gslchoice", inline = TRUE),
+  style = "display: inline-block; border: 2px solid #000; padding: 10px; margin-bottom: 20px; justify-content: left;"
+  ),
+
   mainPanel(
       width = 12,
       tags$style(css),

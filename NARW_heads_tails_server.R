@@ -1,9 +1,14 @@
 # ---- Data File ----
 # Make sure character columns are converted to factors (required for DT filter option)
-dat <- read.csv(file="./coding.csv", stringsAsFactors = TRUE)
-
-# Change NEAQ ID field into factor (instead of integer)
-dat$NEAQ.ID <- as.factor(dat$NEAQ.ID)
+dat <- reactive({
+  if (input$region_choice == "gslchoice") {
+    codings <- read.csv(file = "./coding.csv", stringsAsFactors = TRUE)
+  } else {
+    codings <- read.csv(file = "./coding_bof.csv", stringsAsFactors = TRUE)  # Adjust this to your second file
+  }
+  codings$NEAQ.ID <- as.factor(codings$NEAQ.ID) # Change NEAQ ID field into factor (instead of integer)
+  return(codings)
+})
 
 # ---- Server ----
 
@@ -49,22 +54,25 @@ observeEvent(input$filter_clear, {
 })
 
 
-# Make datatable
-whaledt <- DT::datatable(dat,
-                         filter = list(position = "top", clear = FALSE),
-                                     selection = list(target = 'row'),
-                                     options = list(
-                                       autowidth = TRUE,
-                                       columnDefs = list(list(width = '185px', targets = list(7,8,9,10)),
-                                                         list(width = '75px', targets = list(1)),
-                                                         list(className = 'dt-center', targets = '_all'),
-                                                         list(visible = FALSE, targets=c(0,11,12,13,14,15))),
-                                       pageLength = 6,
-                                       lengthMenu = c(6, 12, 18, 24, 30, 42, 60, 90))
-                                     )
-
-# Data table with filtering
-output$table = DT::renderDT(whaledt, server = FALSE)
+# Update the data table whenever the CSV file or data changes
+output$table <- DT::renderDT({
+  data <- dat()  # Extract the data from the reactive expression
+  DT::datatable(data,
+                filter = list(position = "top", clear = FALSE),
+                selection = list(target = 'row'),
+                options = list(
+                  autowidth = TRUE,
+                  columnDefs = list(
+                    list(width = '185px', targets = list(7,8,9,10)),
+                    list(width = '75px', targets = list(1)),
+                    list(className = 'dt-center', targets = '_all'),
+                    list(visible = FALSE, targets = c(0,11,12,13,14,15))
+                  ),
+                  pageLength = 6,
+                  lengthMenu = c(6, 12, 18, 24, 30, 42, 60, 90)
+                )
+  )
+}, server = FALSE)
 
 
 # Combined method
@@ -84,8 +92,9 @@ output$table = DT::renderDT(whaledt, server = FALSE)
 #   )
 
 # Reactive call that only renders images for selected rows (can change to "table_rows_current" to get all filtered results)
+# Update reactive call for images, based on selected rows
 df <- reactive({
-  dat[input[["table_rows_selected"]], ]
+  dat()[input[["table_rows_selected"]], ]
 })
 
 # Head image output with titlescript.js which gives the name of the image file on mouseover
