@@ -1,27 +1,28 @@
-﻿NEAQ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,Right Head Options,Sig Features,whaleimage,tailimage,ventraltail,lefthead,righthead,
-1017,Batman,N,1,N,Y,C 2 pen R for,C 1 or 2 pen,C 1 pen,,1017-Batman.jpg,1017-Batman_T.jpg,no_tail.jpg,1017-Batman-left.jpg,1017-Batman-right.jpg,
-1209,EL,Y,2,Y,Y,,B 2 isl,B 1 isl,,1209-EL.jpg,1209-EL_T.jpg,1209-EL_VT.jpg,1209-EL-left.jpg,1209-EL-right.jpg,
-1250,Herb,N,1,Y,Y,C 1 sym,C 1 pen,C 1 pen,,1250-Herb.jpg,1250-Herb_T.jpg,1250-Herb_VT.jpg,1250-Herb-left.jpg,1250-Herb-right.jpg,
-2303,Jib,Y,1,N,N,B 2 isl L for,B 2 isl,B 1 isl,,2303-Jib.jpg,2303-Jib_T.jpg,2303-Jib_VT.jpg,2303-Jib-left.jpg,2303-Jib-right.jpg,
-2340,Swan,N,2,Y,Y,C 2 pen R for,C 1 pen,C 1 or 2 pen,lip - small scar left front of callosity,2340-Swan.jpg,2340-Swan_T.jpg,2340-Swan_VT.jpg,2340-Swan-left.jpg,2340-Swan-right.jpg,
-2920,,Y,2,Y,Y,,B long coam no isl,B long coam no isl,,2920.jpg,2920_T.jpg,2920_VT.jpg,2920-left.jpg,2920-right.jpg,
-3617,Salem,N,1,Y,Y,,C 0 or 1 pen,C 0 or 1 pen,,3617-Salem.jpg,3617-Salem_T.jpg,3617-Salem_VT.jpg,3617-Salem-left.jpg,3617-Salem-right.jpg,
-3623,Bongo,N,2,N,N,C all 4 sym,C 2 pen,C 2 pen,coam - scar,3623-Bongo.jpg,3623-Bongo_T.jpg,3623-Bongo_VT.jpg,3623-Bongo-left.jpg,3623-Bongo-right.jpg,
-3651,Sandbar,N,2,Y,Y,,C 2 pen,C 2 pen,,3651-Sandbar.jpg,3651-Sandbar_T.jpg,no_tail.jpg,3651-Sandbar-left.jpg,3651-Sandbar-right.jpg,
-3745,Junction,Y,2,N,N,,B long coam no isl,B long coam no isl,back - prop scars,3745-Junction.jpg,3745-Junction_T.jpg,3745-Junction_VT.jpg,3745-Junction-left.jpg,right-nohead.jpg,
-3802,Portato,Y,2,N,N,,B 1 isl,B 0 isl,,3802-Portato.jpg,3802-Portato_T.jpg,3802-Portato_VT.jpg,3802-Portato-left.jpg,3802-Portato-right.jpg,
-3821,,,,,,,,,,,,,,,
-3832,,,,,,,,,,,,,,,
-3903,,,,,,,,,,,,,,,
-3980,,,,,,,,,,,,,,,
-4041,,,,,,,,,,,,,,,
-4080,,,,,,,,,,,,,,,
-4145,,,,,,,,,,,,,,,
-4191,,,,,,,,,,,,,,,
-4342,,,,,,,,,,,,,,,
-4423,Nebula,N,2,Y,Y,C 2 pen L for,C 1 pen,C 1 pen,,4423-Nebula.jpg,4423-Nebula_T.jpg,4423-Nebula_VT.jpg,4423-Nebula-left.jpg,4423-Nebula-right.jpg,
-4457,Seamount,Y,2,Y,Y,,B long pen coam,B long pen coam,,4457-Seamount.jpg,4457-Seamount_T.jpg,4457-Seamount_VT.jpg,4457-Seamount-left.jpg,4457-Seamount-right.jpg,
-4457,Seamount,Y,2,Y,Y,,B long pen coam,B long pen coam,,4457b-Seamount.jpg,4457-Seamount_T.jpg,4457-Seamount_VT.jpg,4457-Seamount-left.jpg,4457-Seamount-right.jpg,
-4605,,N,2,Y,Y,,C 2 pen,C 1 pen,back - line scar,4605.jpg,4605_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg,
-5191,5191,2021CalfOf3020,Y,2,,,,B long pen coam,B long pen coam,2021 calf,5191.jpg,5191_T.jpg,5191_VT.jpg,left-nohead.jpg,right-nohead.jpg
-5196,,,,,,,,,,,,,,,
+﻿NEAQ ID,Name of Whale,Broken,PB,L Lip,R Lip,Full Head Options,Left Head Options,Right Head Options,Sig Features,whaleimage,tailimage,ventraltail,lefthead,righthead
+1017,Batman,N,1,N,Y,C 2 pen R for,C 1 or 2 pen,C 1 pen,,1017-Batman.jpg,1017-Batman_T.jpg,no_tail.jpg,1017-Batman-left.jpg,1017-Batman-right.jpg
+1209,EL,Y,2,Y,Y,,B 2 isl,B 1 isl,,1209-EL.jpg,1209-EL_T.jpg,1209-EL_VT.jpg,1209-EL-left.jpg,1209-EL-right.jpg
+1250,Herb,N,1,Y,Y,C 1 sym,C 1 pen,C 1 pen,,1250-Herb.jpg,1250-Herb_T.jpg,1250-Herb_VT.jpg,1250-Herb-left.jpg,1250-Herb-right.jpg
+2303,Jib,Y,1,N,N,B 2 isl L for,B 2 isl,B 1 isl,,2303-Jib.jpg,2303-Jib_T.jpg,2303-Jib_VT.jpg,2303-Jib-left.jpg,2303-Jib-right.jpg
+2340,Swan,N,2,Y,Y,C 2 pen R for,C 1 pen,C 1 or 2 pen,lip - small scar left front of callosity,2340-Swan.jpg,2340-Swan_T.jpg,2340-Swan_VT.jpg,2340-Swan-left.jpg,2340-Swan-right.jpg
+2920,,Y,2,Y,Y,,B long coam no isl,B long coam no isl,,2920.jpg,2920_T.jpg,2920_VT.jpg,2920-left.jpg,2920-right.jpg
+3617,Salem,N,1,Y,Y,,C 0 or 1 pen,C 0 or 1 pen,,3617-Salem.jpg,3617-Salem_T.jpg,3617-Salem_VT.jpg,3617-Salem-left.jpg,3617-Salem-right.jpg
+3623,Bongo,N,2,N,N,C all 4 sym,C 2 pen,C 2 pen,coam - scar,3623-Bongo.jpg,3623-Bongo_T.jpg,3623-Bongo_VT.jpg,3623-Bongo-left.jpg,3623-Bongo-right.jpg
+3651,Sandbar,N,2,Y,Y,,C 2 pen,C 2 pen,,3651-Sandbar.jpg,3651-Sandbar_T.jpg,no_tail.jpg,3651-Sandbar-left.jpg,3651-Sandbar-right.jpg
+3745,Junction,Y,2,N,N,,B long coam no isl,B long coam no isl,back - prop scars,3745-Junction.jpg,3745-Junction_T.jpg,3745-Junction_VT.jpg,3745-Junction-left.jpg,right-nohead.jpg
+3802,Portato,Y,2,N,N,,B 1 isl,B 0 isl,,3802-Portato.jpg,3802-Portato_T.jpg,3802-Portato_VT.jpg,3802-Portato-left.jpg,3802-Portato-right.jpg
+3821,Zigzag,N,2,N,Y,,C 2 pen,C dbl pen,,3821-Zigzag.jpg,3821-Zigzag_T.jpg,3821-Zigzag_VT.jpg,3821-Zigzag-left.jpg,3821-Zigzag-right.jpg
+3832,,N,2,Y,Y,C 2 pen R for,C 1 pen,C 1 pen,,3832.jpg,3832_T.jpg,3832_VT.jpg,left-nohead.jpg,right-nohead.jpg
+3903,,Y,1,Y,Y,,B 0 isl,B 1 isl,,3903.jpg,3903_T.jpg,3903_VT.jpg,3903-left.jpg,right-nohead.jpg
+3980,,Y,2,N,N,,B 1 isl,B 0 isl,,3980.jpg,3980_T.jpg,no_tail.jpg,3980-left.jpg,right-nohead.jpg
+4041,Cassiopeia,Y,3,N,N,,B long pen coam,B long pen coam,,4041b-Cassiopeia.jpg,4041-Cassiopeia_T.jpg,4041-Cassiopeia_VT.jpg,4041-Cassiopeia-left.jpg,4041-Cassiopeia-right.jpg
+4041,Cassiopeia,N,3,N,N,C 1 sym,C 1 pen,C 1 pen,,4041-Cassiopeia.jpg,4041-Cassiopeia_T.jpg,4041-Cassiopeia_VT.jpg,4041-Cassiopeia-left.jpg,4041-Cassiopeia-right.jpg
+4080,,Y,2,N,N,,B long pen coam,B long pen coam,,4080.jpg,4080_T.jpg,4080_VT.jpg,left-nohead.jpg,4080-right.jpg
+4145,,N,2,Y,Y,,C isl,C 1 pen,,4145.jpg,4145_T.jpg,no_tail.jpg,4145-left.jpg,4145-right.jpg
+4191,,Y,2,N,N,B 2 isl R for,B 1 isl,B 1 isl,,4191.jpg,4191_T.jpg,4191_VT.jpg,4191-left.jpg,4191-right.jpg
+4342,,Y,2,N,N,,B long coam,B long pen coam,,4342.jpg,4342_T.jpg,no_tail.jpg,4342-left.jpg,4342-right.jpg
+4423,Nebula,N,2,Y,Y,C 2 pen L for,C 1 pen,C 1 pen,,4423-Nebula.jpg,4423-Nebula_T.jpg,4423-Nebula_VT.jpg,4423-Nebula-left.jpg,4423-Nebula-right.jpg
+4457,Seamount,Y,2,Y,Y,,B long pen coam,B long pen coam,,4457-Seamount.jpg,4457-Seamount_T.jpg,4457-Seamount_VT.jpg,4457-Seamount-left.jpg,4457-Seamount-right.jpg
+4457,Seamount,Y,2,Y,Y,,B long pen coam,B long pen coam,,4457b-Seamount.jpg,4457-Seamount_T.jpg,4457-Seamount_VT.jpg,4457-Seamount-left.jpg,4457-Seamount-right.jpg
+4605,,N,2,Y,Y,,C 2 pen,C 1 pen,back - line scar,4605.jpg,4605_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+5191,2021CalfOf3020,Y,2,Y,Y,,B long pen coam,B long pen coam,2021 calf,5191.jpg,5191_T.jpg,5191_VT.jpg,left-nohead.jpg,right-nohead.jpg
+5196,,N,2,Y,Y,C any 4 asym,C 2 pen,C 2 pen,,5196.jpg,5196_T.jpg,no_tail.jpg,left-nohead.jpg,5196-right.jpg
