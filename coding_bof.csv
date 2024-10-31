@@ -26,17 +26,18 @@
 3623,Bongo,N,2,N,N,C all 4 sym,C 2 pen,C 2 pen,coam - scar,3623-Bongo.jpg,3623-Bongo_T.jpg,3623-Bongo_VT.jpg,3623-Bongo-left.jpg,3623-Bongo-right.jpg
 3651,Sandbar,N,2,Y,Y,,C 2 pen,C 2 pen,,3651-Sandbar.jpg,3651-Sandbar_T.jpg,no_tail.jpg,3651-Sandbar-left.jpg,3651-Sandbar-right.jpg
 3745,Junction,Y,2,N,N,,B long coam no isl,B long coam no isl,back - prop scars,3745-Junction.jpg,3745-Junction_T.jpg,3745-Junction_VT.jpg,3745-Junction-left.jpg,right-nohead.jpg
-3760,,,,,,,,,,,,,,
+3760,Callosity Back,Y,2,N,Y,B 1 sym,B 1 isl,B 1 isl,,3760-Callosity Back.jpg,3760-Callosity Back_T.jpg,3760-Callosity Back_VT.jpg,left-nohead.jpg,right-nohead.jpg
+3760,Callosity Back,N,2,N,Y,,C 2 pen,C 2 pen,,3760-Callosity Back.jpg,3760-Callosity Back_T.jpg,3760-Callosity Back_VT.jpg,left-nohead.jpg,right-nohead.jpg
 3802,Portato,Y,2,N,N,,B 1 isl,B 0 isl,,3802-Portato.jpg,3802-Portato_T.jpg,3802-Portato_VT.jpg,3802-Portato-left.jpg,3802-Portato-right.jpg
-3808,,,,,,,,,,,,,,
+3808,Magnet,Y,2,N,N,,B 2 isl,B 1 isl,,3808-Magnet.jpg,3808-Magnet_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
 3821,Zigzag,N,2,N,Y,,C 2 pen,C dbl pen,,3821-Zigzag.jpg,3821-Zigzag_T.jpg,3821-Zigzag_VT.jpg,3821-Zigzag-left.jpg,3821-Zigzag-right.jpg
 3832,,N,2,Y,Y,C 2 pen R for,C 1 pen,C 1 pen,,3832.jpg,3832_T.jpg,3832_VT.jpg,left-nohead.jpg,right-nohead.jpg
 3903,,Y,1,Y,Y,,B 0 isl,B 1 isl,,3903.jpg,3903_T.jpg,3903_VT.jpg,3903-left.jpg,right-nohead.jpg
-3908,,,,,,,,,,,,,,
+3908,Zero,Y,2,N,N,B 2 isl L for,B 1 isl,B 1 isl,back - line scar right perpendicular,3908-Zero.jpg,3908-Zero_T.jpg,3908-Magnet_VT.jpg,3908-Magnet-left.jpg,3908-Magnet-right.jpg
 3915,,Y,3,Y,Y,,B long pen coam,B long pen coam,,3915.jpg,3915_T.jpg,no_tail.jpg,3915-left.jpg,right-nohead.jpg
-3950,,,,,,,,,,,,,,
+3950,,Y,2,N,Y,B 2 isl L for,B 1 isl,B 1 isl,,3950.jpg,3950_T.jpg,no_tail.jpg,left-nohead.jpg,3950-right.jpg
 3980,Frisbee,Y,2,N,N,,B 1 isl,B 0 isl,,3980-Frisbee.jpg,3980-Frisbee_T.jpg,no_tail.jpg,3980-Frisbee-left.jpg,right-nohead.jpg
-4020,,,,,,,,,,,,,,
+4020,Nymph,Y,2,N,N,B 1 sym,B 1 isl,B 1 isl,,4020-Nymph.jpg,4020-Nymph.jpg,no_tail.jpg,4020-Nymph-left.jpg,4020-Nymph-right.jpg
 4041,Cassiopeia,Y,3,N,N,,B long pen coam,B long pen coam,,4041b-Cassiopeia.jpg,4041-Cassiopeia_T.jpg,4041-Cassiopeia_VT.jpg,4041-Cassiopeia-left.jpg,4041-Cassiopeia-right.jpg
 4041,Cassiopeia,N,3,N,N,C 1 sym,C 1 pen,C 1 pen,,4041-Cassiopeia.jpg,4041-Cassiopeia_T.jpg,4041-Cassiopeia_VT.jpg,4041-Cassiopeia-left.jpg,4041-Cassiopeia-right.jpg
 4080,,Y,2,N,N,,B long pen coam,B long pen coam,,4080.jpg,4080_T.jpg,4080_VT.jpg,left-nohead.jpg,4080-right.jpg
