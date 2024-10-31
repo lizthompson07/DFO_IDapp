@@ -2,25 +2,49 @@
 1017,Batman,N,1,N,Y,C 2 pen R for,C 1 or 2 pen,C 1 pen,,1017-Batman.jpg,1017-Batman_T.jpg,no_tail.jpg,1017-Batman-left.jpg,1017-Batman-right.jpg
 1209,EL,Y,2,Y,Y,,B 2 isl,B 1 isl,,1209-EL.jpg,1209-EL_T.jpg,1209-EL_VT.jpg,1209-EL-left.jpg,1209-EL-right.jpg
 1250,Herb,N,1,Y,Y,C 1 sym,C 1 pen,C 1 pen,,1250-Herb.jpg,1250-Herb_T.jpg,1250-Herb_VT.jpg,1250-Herb-left.jpg,1250-Herb-right.jpg
+1279,,N,2,N,N,,C 1 pen,C 2 pen,,1279.jpg,1279_T.jpg,1279_VT.jpg,1279-left.jpg,1279-right.jpg
+1331,Trellis,N,2,N,Y,,C 1 pen,C 1 pen,back - large prop scar,1331-Trellis.jpg,1331-Trellis_T.jpg,1331-Trellis_VT.jpg,1331-Trellis-left.jpg,1331-Trellis-right.jpg
+2010,Gandalf,N,2,Y,Y,C any 4 asym,C 2 pen,C 2 pen,bh - scar,2010-Gandalf.jpg,2010-Gandalf_T.jpg,2010-Gandalf_VT.jpg,2010-Gandalf-left.jpg,2010-Gandalf-right.jpg
+2010,Gandalf,Y,2,Y,Y,,B long pen coam,B long pen coam,bh - scar,2010-Gandalf.jpg,2010-Gandalf_T.jpg,2010-Gandalf_VT.jpg,2010-Gandalf-left.jpg,2010-Gandalf-right.jpg
+2142,Rhino,N,2,Y,Y,,C dbl pen,C isl,,2142-Rhino.jpg,2142-Rhino_T.jpg,no_tail.jpg,2142-Rhino-left.jpg,2142-Rhino-right.jpg
 2303,Jib,Y,1,N,N,B 2 isl L for,B 2 isl,B 1 isl,,2303-Jib.jpg,2303-Jib_T.jpg,2303-Jib_VT.jpg,2303-Jib-left.jpg,2303-Jib-right.jpg
 2340,Swan,N,2,Y,Y,C 2 pen R for,C 1 pen,C 1 or 2 pen,lip - small scar left front of callosity,2340-Swan.jpg,2340-Swan_T.jpg,2340-Swan_VT.jpg,2340-Swan-left.jpg,2340-Swan-right.jpg
+2681,Hyphen,Y,2,N,Y,,B 0 isl,B 0 isl,coam - scar,2681-Hyphen.jpg,2681-Hyphen_T.jpg,no_tail.jpg,2681-Hyphen-left.jpg,2681-Hyphen-right.jpg
+2681,Hyphen,Y,4,N,Y,,B 0 isl,B 0 isl,coam - scar,2681-Hyphen.jpg,2681-Hyphen_T.jpg,no_tail.jpg,2681-Hyphen-left.jpg,2681-Hyphen-right.jpg
+2713,Periscope,Y,2,N,N,,B long pen coam,B long coam no isl,,2713-Periscope.jpg,2713-Periscope T.jpg,2713-Periscope_VT.jpg,2713-Periscope-left.jpg,2713-Periscope-right.jpg
+2770,Horseshoe,Y,2,Y,Y,B 2 isl L for,B 1 isl,B 1 isl,,2770-Horseshoe.jpg,2770-Horseshoe_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
 2920,Peter Rabbit,Y,2,Y,Y,,B long coam no isl,B long coam no isl,,2920-Peter Rabbit.jpg,2920-Peter Rabbit_T.jpg,2920-Peter Rabbit_VT.jpg,2920-Peter Rabbit-left.jpg,2920-Peter Rabbit-right.jpg
+3193,Toothbrush,N,2,Y,Y,C 1 sym,C 1 pen,C 1 pen,,3193-Toothbrush.jpg,3193-Toothbrush_T.jpg,3193-Toothbrush_VT.jpg,3193-Toothbrush-left.jpg,3193-Toothbrush-right.jpg
+3194,Granite,Y,2,Y,Y,B 2 isl L for,B 1 isl,B 1 isl,,3194-Granite.jpg,3194-Granite_T.jpg,3194-Granite_VT.jpg,3194-Granite-left.jpg,right-nohead.jpg
+3194,Granite,Y,2,Y,Y,,B long coam no isl,B long coam w isl,,3194b-Granite.jpg,3194-Granite_T.jpg,3194-Granite_VT.jpg,3194-Granite-left.jpg,right-nohead.jpg
+3423,Epic,N,2,Y,Y,,C 1 pen,C 2 pen,lip - right lip very long,3423-Epic.jpg,3423-Epic_T.jpg,3423-Epic_VT.jpg,3423-Epic-left.jpg,3423-Epic-right.jpg
+3520,Millipede,Y,4,N,N,B 1 sym isl,B long coam w isl,B long coam w isl,2021 mom,3520-Millipede.jpg,3520-Millipede_T.jpg,3520-Millipede_VT.jpg,3520-Millipede-left.jpg,3520-Millipede-right.jpg
+3520,Millipede,Y,4,N,N,,B long pen coam,B long pen coam,2021 mom,3520-Millipede.jpg,3520-Millipede_T.jpg,3520-Millipede_VT.jpg,3520-Millipede-left.jpg,3520-Millipede-right.jpg
+3541,,Y,2,N,N,,B 2 isl,B 1 isl,,3541.jpg,3541_T.jpg,3541_VT.jpg,3541-left.jpg,3541-right.jpg
+3590,Dog-Ear,N,1,Y,N,,C 0 pen,C 0 pen,2024 mom,3590-Dog Ear.jpg,3590-Dog Ear_T.jpg,3590-Dog Ear_VT.jpg,left-nohead.jpg,right-nohead.jpg
 3617,Salem,N,1,Y,Y,,C 0 or 1 pen,C 0 or 1 pen,,3617-Salem.jpg,3617-Salem_T.jpg,3617-Salem_VT.jpg,3617-Salem-left.jpg,3617-Salem-right.jpg
 3623,Bongo,N,2,N,N,C all 4 sym,C 2 pen,C 2 pen,coam - scar,3623-Bongo.jpg,3623-Bongo_T.jpg,3623-Bongo_VT.jpg,3623-Bongo-left.jpg,3623-Bongo-right.jpg
 3651,Sandbar,N,2,Y,Y,,C 2 pen,C 2 pen,,3651-Sandbar.jpg,3651-Sandbar_T.jpg,no_tail.jpg,3651-Sandbar-left.jpg,3651-Sandbar-right.jpg
 3745,Junction,Y,2,N,N,,B long coam no isl,B long coam no isl,back - prop scars,3745-Junction.jpg,3745-Junction_T.jpg,3745-Junction_VT.jpg,3745-Junction-left.jpg,right-nohead.jpg
+3760,,,,,,,,,,,,,,
 3802,Portato,Y,2,N,N,,B 1 isl,B 0 isl,,3802-Portato.jpg,3802-Portato_T.jpg,3802-Portato_VT.jpg,3802-Portato-left.jpg,3802-Portato-right.jpg
+3808,,,,,,,,,,,,,,
 3821,Zigzag,N,2,N,Y,,C 2 pen,C dbl pen,,3821-Zigzag.jpg,3821-Zigzag_T.jpg,3821-Zigzag_VT.jpg,3821-Zigzag-left.jpg,3821-Zigzag-right.jpg
 3832,,N,2,Y,Y,C 2 pen R for,C 1 pen,C 1 pen,,3832.jpg,3832_T.jpg,3832_VT.jpg,left-nohead.jpg,right-nohead.jpg
 3903,,Y,1,Y,Y,,B 0 isl,B 1 isl,,3903.jpg,3903_T.jpg,3903_VT.jpg,3903-left.jpg,right-nohead.jpg
+3908,,,,,,,,,,,,,,
 3915,,Y,3,Y,Y,,B long pen coam,B long pen coam,,3915.jpg,3915_T.jpg,no_tail.jpg,3915-left.jpg,right-nohead.jpg
+3950,,,,,,,,,,,,,,
 3980,Frisbee,Y,2,N,N,,B 1 isl,B 0 isl,,3980-Frisbee.jpg,3980-Frisbee_T.jpg,no_tail.jpg,3980-Frisbee-left.jpg,right-nohead.jpg
+4020,,,,,,,,,,,,,,
 4041,Cassiopeia,Y,3,N,N,,B long pen coam,B long pen coam,,4041b-Cassiopeia.jpg,4041-Cassiopeia_T.jpg,4041-Cassiopeia_VT.jpg,4041-Cassiopeia-left.jpg,4041-Cassiopeia-right.jpg
 4041,Cassiopeia,N,3,N,N,C 1 sym,C 1 pen,C 1 pen,,4041-Cassiopeia.jpg,4041-Cassiopeia_T.jpg,4041-Cassiopeia_VT.jpg,4041-Cassiopeia-left.jpg,4041-Cassiopeia-right.jpg
 4080,,Y,2,N,N,,B long pen coam,B long pen coam,,4080.jpg,4080_T.jpg,4080_VT.jpg,left-nohead.jpg,4080-right.jpg
 4145,,N,2,Y,Y,,C isl,C 1 pen,,4145.jpg,4145_T.jpg,no_tail.jpg,4145-left.jpg,4145-right.jpg
 4191,,Y,2,N,N,B 2 isl R for,B 1 isl,B 1 isl,,4191.jpg,4191_T.jpg,4191_VT.jpg,4191-left.jpg,4191-right.jpg
+4220,,,,,,,,,,,,,,
 4342,,Y,2,N,N,,B long coam,B long pen coam,,4342.jpg,4342_T.jpg,no_tail.jpg,4342-left.jpg,4342-right.jpg
+4353,,,,,,,,,,,,,,
 4423,Nebula,N,2,Y,Y,C 2 pen L for,C 1 pen,C 1 pen,,4423-Nebula.jpg,4423-Nebula_T.jpg,4423-Nebula_VT.jpg,4423-Nebula-left.jpg,4423-Nebula-right.jpg
 4457,Seamount,Y,2,Y,Y,,B long pen coam,B long pen coam,,4457-Seamount.jpg,4457-Seamount_T.jpg,4457-Seamount_VT.jpg,4457-Seamount-left.jpg,4457-Seamount-right.jpg
 4457,Seamount,Y,2,Y,Y,,B long pen coam,B long pen coam,,4457b-Seamount.jpg,4457-Seamount_T.jpg,4457-Seamount_VT.jpg,4457-Seamount-left.jpg,4457-Seamount-right.jpg
@@ -30,3 +54,4 @@
 5196,,N,2,Y,Y,C any 4 asym,C 2 pen,C 2 pen,,5196.jpg,5196_T.jpg,no_tail.jpg,left-nohead.jpg,5196-right.jpg
 5290,,Y,2,Y,Y,B 1 sym,B 1 isl,B 1 isl,,5290.jpg,5290_T.jpg,no_tail.jpg,5290-left.jpg,5290-right.jpg
 ,2023CalfOf1711,N,2,N,N,,C 1 pen,C 2 pen,,_2023CalfOf1711.jpg,no_tail.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
+,2024CalfOf3590,N,,,,,,,,_2024CalfOf3590.jpg,,,,
