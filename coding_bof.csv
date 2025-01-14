@@ -4,6 +4,7 @@
 1250,Herb,N,1,Y,Y,C 1 sym,C 1 pen,C 1 pen,,1250-Herb.jpg,1250-Herb_T.jpg,1250-Herb_VT.jpg,1250-Herb-left.jpg,1250-Herb-right.jpg
 1279,,N,2,N,N,,C 1 pen,C 2 pen,,1279.jpg,1279_T.jpg,1279_VT.jpg,1279-left.jpg,1279-right.jpg
 1331,Trellis,N,2,N,Y,,C 1 pen,C 1 pen,back - large prop scar,1331-Trellis.jpg,1331-Trellis_T.jpg,1331-Trellis_VT.jpg,1331-Trellis-left.jpg,1331-Trellis-right.jpg
+1616,Owl,N,1,N,N,,C 2 pen or dbl,C 2 pen or C isl,,1616-Owl.jpg,1616-Owl_T.jpg,1616-Owl_VT.jpg,1616-Owl-left.jpg,1616-Owl-right.jpg
 2010,Gandalf,N,2,Y,Y,C any 4 asym,C 2 pen,C 2 pen,bh - scar,2010-Gandalf.jpg,2010-Gandalf_T.jpg,2010-Gandalf_VT.jpg,2010-Gandalf-left.jpg,2010-Gandalf-right.jpg
 2010,Gandalf,Y,2,Y,Y,,B long pen coam,B long pen coam,bh - scar,2010-Gandalf.jpg,2010-Gandalf_T.jpg,2010-Gandalf_VT.jpg,2010-Gandalf-left.jpg,2010-Gandalf-right.jpg
 2142,Rhino,N,2,Y,Y,,C dbl pen,C isl,,2142-Rhino.jpg,2142-Rhino_T.jpg,no_tail.jpg,2142-Rhino-left.jpg,2142-Rhino-right.jpg
@@ -33,7 +34,7 @@
 3821,Zigzag,N,2,N,Y,,C 2 pen,C dbl pen,,3821-Zigzag.jpg,3821-Zigzag_T.jpg,3821-Zigzag_VT.jpg,3821-Zigzag-left.jpg,3821-Zigzag-right.jpg
 3832,,N,2,Y,Y,C 2 pen R for,C 1 pen,C 1 pen,,3832.jpg,3832_T.jpg,3832_VT.jpg,left-nohead.jpg,right-nohead.jpg
 3903,,Y,1,Y,Y,,B 0 isl,B 1 isl,,3903.jpg,3903_T.jpg,3903_VT.jpg,3903-left.jpg,right-nohead.jpg
-3908,Zero,Y,2,N,N,B 2 isl L for,B 1 isl,B 1 isl,back - line scar right perpendicular,3908-Zero.jpg,3908-Zero_T.jpg,3908-Magnet_VT.jpg,3908-Magnet-left.jpg,3908-Magnet-right.jpg
+3908,Zero,Y,2,N,N,B 2 isl L for,B 1 isl,B 1 isl,back - line scar right perpendicular,3908-Zero.jpg,3908-Zero_T.jpg,3908-Zero_VT.jpg,3908-Zero-left.jpg,3908-Zero-right.jpg
 3915,,Y,3,Y,Y,,B long pen coam,B long pen coam,,3915.jpg,3915_T.jpg,no_tail.jpg,3915-left.jpg,right-nohead.jpg
 3950,,Y,2,N,Y,B 2 isl L for,B 1 isl,B 1 isl,,3950.jpg,3950_T.jpg,no_tail.jpg,left-nohead.jpg,3950-right.jpg
 3980,Frisbee,Y,2,N,N,,B 1 isl,B 0 isl,,3980-Frisbee.jpg,3980-Frisbee_T.jpg,no_tail.jpg,3980-Frisbee-left.jpg,right-nohead.jpg
@@ -42,6 +43,7 @@
 4041,Cassiopeia,N,3,N,N,C 1 sym,C 1 pen,C 1 pen,,4041-Cassiopeia.jpg,4041-Cassiopeia_T.jpg,4041-Cassiopeia_VT.jpg,4041-Cassiopeia-left.jpg,4041-Cassiopeia-right.jpg
 4080,,Y,2,N,N,,B long pen coam,B long pen coam,,4080.jpg,4080_T.jpg,4080_VT.jpg,left-nohead.jpg,4080-right.jpg
 4145,,N,2,Y,Y,,C isl,C 1 pen,,4145.jpg,4145_T.jpg,no_tail.jpg,4145-left.jpg,4145-right.jpg
+4146,,N,2,N,N,C 2 pen L for,C 1 pen,C 1 pen,,4146.jpg,4146_T.jpg,no_tail.jpg,4146-left.jpg,4146-right.jpg
 4191,,Y,2,N,N,B 2 isl R for,B 1 isl,B 1 isl,,4191.jpg,4191_T.jpg,4191_VT.jpg,4191-left.jpg,4191-right.jpg
 4220,Kermit,Y,4,N,N,B 1 sym,B 1 isl,B 1 isl,,4220-Kermit.jpg,4220-Kermit_T.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
 4342,,Y,2,N,N,,B long coam,B long pen coam,,4342.jpg,4342_T.jpg,no_tail.jpg,4342-left.jpg,4342-right.jpg
@@ -55,4 +57,4 @@
 5196,,N,2,Y,Y,C any 4 asym,C 2 pen,C 2 pen,,5196.jpg,5196_T.jpg,no_tail.jpg,left-nohead.jpg,5196-right.jpg
 5290,,Y,2,Y,Y,B 1 sym,B 1 isl,B 1 isl,,5290.jpg,5290_T.jpg,no_tail.jpg,5290-left.jpg,5290-right.jpg
 ,2023CalfOf1711,N,2,N,N,,C 1 pen,C 2 pen,,_2023CalfOf1711.jpg,no_tail.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
-,2024CalfOf3590,N,,,,,,,,_2024CalfOf3590.jpg,,,,
+,2024CalfOf3590,N,,,,,,,,_2024CalfOf3590.jpg,no_tail.jpg,no_tail.jpg,left-nohead.jpg,right-nohead.jpg
